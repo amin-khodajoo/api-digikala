@@ -3,7 +3,7 @@
     {
       "id": 0,
       "title": "موبایل",
-      "image": "../public/images/header-category/1.svg",
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/header-category/1.svg",
       "link": "#",
       "dropdown": [
         { "id": 0, "title": "همه محصولات موبایل", "link": "#", "type": true },
@@ -225,7 +225,7 @@
     {
       "id": 1,
       "title": "کالای دیجیتال",
-      "image": "../public/images/header-category/2.svg",
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/header-category/2.svg",
       "link": "#",
       "dropdown": [
         {
@@ -445,7 +445,7 @@
     {
       "id": 2,
       "title": "کتاب،لوازم تحریر و هنر",
-      "image": "../public/images/header-category/3.svg",
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/header-category/3.svg",
       "link": "#",
       "dropdown": [
         {
@@ -574,7 +574,7 @@
     {
       "id": 3,
       "title": "خانه و آشپزخانه",
-      "image": "../public/images/header-category/4.svg",
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/header-category/4.svg",
       "link": "#",
       "dropdown": [
         {
@@ -672,7 +672,7 @@
     {
       "id": 4,
       "title": "لوازم خانگی برقی",
-      "image": "../public/images/header-category/5.svg",
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/header-category/5.svg",
       "link": "#",
       "dropdown": [
         {
@@ -815,7 +815,7 @@
     {
       "id": 5,
       "title": "مد و پوشاک",
-      "image": "../public/images/header-category/6.svg",
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/header-category/6.svg",
       "link": "#",
       "dropdown": [
         {
@@ -910,7 +910,7 @@
     {
       "id": 6,
       "title": "طلا و نقره",
-      "image": "../public/images/header-category/7.svg",
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/header-category/7.svg",
       "link": "#",
       "dropdown": [
         {
@@ -1018,7 +1018,7 @@
     {
       "id": 7,
       "title": "آرایشی بهداشتی",
-      "image": "../public/images/header-category/8.svg",
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/header-category/8.svg",
       "link": "#",
       "dropdown": [
         {
@@ -1107,7 +1107,7 @@
     {
       "id": 8,
       "title": "تجهیزات پزشکی و سلامت",
-      "image": "../public/images/header-category/9.svg",
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/header-category/9.svg",
       "link": "#",
       "dropdown": [
         {
@@ -1165,7 +1165,7 @@
     {
       "id": 9,
       "title": "ورزش و سفر",
-      "image": "../public/images/header-category/10.svg",
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/header-category/10.svg",
       "link": "#",
       "dropdown": [
         {
@@ -1251,7 +1251,7 @@
     {
       "id": 10,
       "title": "خودرو و موتورسیکلت",
-      "image": "../public/images/header-category/11.svg",
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/header-category/11.svg",
       "link": "#",
       "dropdown": [
         {
@@ -1361,7 +1361,7 @@
     {
       "id": 11,
       "title": "ابزار آلات و تجهیزات",
-      "image": "../public/images/header-category/12.svg",
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/header-category/12.svg",
       "link": "#",
       "dropdown": [
         {
@@ -1483,7 +1483,7 @@
     {
       "id": 12,
       "title": "کارت هدیه و گیفت کارت",
-      "image": "../public/images/header-category/13.svg",
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/header-category/13.svg",
       "link": "#",
       "dropdown": [
         {
@@ -1701,7 +1701,7 @@
     {
       "id": 13,
       "title": "کالای خوراکی و اساسی",
-      "image": "../public/images/header-category/14.svg",
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/header-category/14.svg",
       "link": "#",
       "dropdown": [
         {
@@ -1852,7 +1852,7 @@
     {
       "id": 14,
       "title": "اسباب بازی، کودک و نوزاد",
-      "image": "../public/images/header-category/15.svg",
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/header-category/15.svg",
       "link": "#",
       "dropdown": [
         {
@@ -2003,7 +2003,7 @@
     {
       "id": 15,
       "title": "محصولات بومی و محلی",
-      "image": "../public/images/header-category/16.svg",
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/header-category/16.svg",
       "link": "#",
       "dropdown": [
         {
@@ -2129,11 +2129,11 @@
   "poster": [
     {
       "id": 0,
-      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/fc31aafec57532f15b06f4bc4b21531bdd2ef982_1749620757.jpg?x-oss-process=image/quality,q_95/format,webp"
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/poster/1.webp"
     },
     {
       "id": 1,
-      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/47d00e0fe5650b1171f632ec2fe140a247e4620c_1749620757.jpg?x-oss-process=image/quality,q_95/format,webp"
+      "image": "https://amin-khodajoo.github.io/api-digikala/public/images/poster/1.webp"
     }
   ],
   "nav": [
@@ -2156,136 +2156,136 @@
       "id": 0,
       "title1": "جستجو",
       "title2": "جستجو در",
-      "image1": "https://www.digikala.com/brand/full-horizontal.svg",
-      "image2": "https://www.digikala.com/brand/typography.svg",
-      "icon": "http://localhost:5173/public/images/search.svg"
+      "image1": "https://amin-khodajoo.github.io/api-digikala/public/images/full-horizontal.svg",
+      "image2": "https://amin-khodajoo.github.io/api-digikala/public/images/typography.svg",
+      "icon": "https://amin-khodajoo.github.io/api-digikala/public/images/search.svg"
     },
     {
       "id": 1,
       "title": "ورود | ثبت‌نام",
-      "icon1": "http://localhost:5173/public/images/register.svg",
-      "icon2": "http://localhost:5173/public/images/basket.svg"
+      "icon1": "https://amin-khodajoo.github.io/api-digikala/public/images/register.svg",
+      "icon2": "https://amin-khodajoo.github.io/api-digikala/public/images/basket.svg"
     }
   ],
   "slider1": [
     {
       "id": 0,
       "link": "#",
-      "img": "/public/images/slider-1/1.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/1.jpg",
       "title": "زندگی بدون این سخته ..."
     },
     {
       "id": 1,
       "link": "#",
-      "img": "/public/images/slider-1/2.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/2.jpg",
       "title": "پاور بانک کوچولو"
     },
     {
       "id": 2,
       "link": "#",
-      "img": "/public/images/slider-1/3.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/3.jpg",
       "title": "روش ساخت اپل آی دی"
     },
     {
       "id": 3,
       "link": "#",
-      "img": "/public/images/slider-1/4.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/4.jpg",
       "title": "قمقمه سیلیکونی تاشوسفری"
     },
     {
       "id": 4,
       "link": "#",
-      "img": "/public/images/slider-1/5.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/5.jpg",
       "title": "هدفونی که دارم چیه؟"
     },
     {
       "id": 5,
       "link": "#",
-      "img": "/public/images/slider-1/6.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/6.jpg",
       "title": "پاوربانکی که گوشست رو شارژ نمیکنه"
     },
     {
       "id": 6,
       "link": "#",
-      "img": "/public/images/slider-1/7.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/7.jpg",
       "title": "بررسی دستبند شیائومی miband 8 pro Review"
     },
     {
       "id": 7,
       "link": "#",
-      "img": "/public/images/slider-1/8.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/8.jpg",
       "title": "آچار فرانسه ایران پتک"
     },
     {
       "id": 8,
       "link": "#",
-      "img": "/public/images/slider-1/9.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/9.jpg",
       "title": "افزاینده فشار آب حموم"
     },
     {
       "id": 9,
       "link": "#",
-      "img": "/public/images/slider-1/10.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/10.jpg",
       "title": "انبر لغزشی دلی"
     },
     {
       "id": 10,
       "link": "#",
-      "img": "/public/images/slider-1/11.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/11.jpg",
       "title": "قشم با Sony a6700"
     },
     {
       "id": 11,
       "link": "#",
-      "img": "/public/images/slider-1/12.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/12.jpg",
       "title": "کارواش شارژی"
     },
     {
       "id": 12,
       "link": "#",
-      "img": "/public/images/slider-1/13.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/13.jpg",
       "title": "بهتر از منچ و تخته"
     },
     {
       "id": 13,
       "link": "#",
-      "img": "/public/images/slider-1/14.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/14.jpg",
       "title": "آخه ۱۵ میلیون پنکه کی میخره؟"
     },
     {
       "id": 14,
       "link": "#",
-      "img": "/public/images/slider-1/15.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/15.jpg",
       "title": "بهترین گوشی دکمه‌ای"
     },
     {
       "id": 15,
       "link": "#",
-      "img": "/public/images/slider-1/16.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/16.jpg",
       "title": "همون شاهکار قدیمی ولی 20000mAh"
     },
     {
       "id": 16,
       "link": "#",
-      "img": "/public/images/slider-1/17.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/17.jpg",
       "title": "کیک،اما نه یه کیک معمولی"
     },
     {
       "id": 17,
       "link": "#",
-      "img": "/public/images/slider-1/18.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/18.jpg",
       "title": "حواست به باتری لپ‌تاپ باشه"
     },
     {
       "id": 18,
       "link": "#",
-      "img": "/public/images/slider-1/19.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/19.jpg",
       "title": "تبدیل دریل به پمپ آب"
     },
     {
       "id": 19,
       "link": "#",
-      "img": "/public/images/slider-1/20.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-1/20.jpg",
       "title": "پنجشنبه‌شب چی‌کاره‌ای؟"
     }
   ],
@@ -2293,42 +2293,42 @@
     {
       "id": 0,
       "link": "#",
-      "img": "/public/images/slider-2/1.gif"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-2/1.gif"
     },
     {
       "id": 1,
       "link": "#",
-      "img": "/public//images/slider-2/2.webp"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public//images/slider-2/2.webp"
     },
     {
       "id": 2,
       "link": "#",
-      "img": "/public//images/slider-2/3.webp"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public//images/slider-2/3.webp"
     },
     {
       "id": 3,
       "link": "#",
-      "img": "/public//images/slider-2/4.webp"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public//images/slider-2/4.webp"
     },
     {
       "id": 4,
       "link": "#",
-      "img": "/public//images/slider-2/5.webp"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public//images/slider-2/5.webp"
     },
     {
       "id": 5,
       "link": "#",
-      "img": "/public//images/slider-2/6.webp"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public//images/slider-2/6.webp"
     },
     {
       "id": 6,
       "link": "#",
-      "img": "/public//images/slider-2/7.webp"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public//images/slider-2/7.webp"
     },
     {
       "id": 7,
       "link": "#",
-      "img": "/public//images/slider-2/8.webp"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public//images/slider-2/8.webp"
     }
   ],
   "more": [
@@ -2336,171 +2336,171 @@
       "id": 0,
       "link": "#",
       "title": "طلای دیجیتال",
-      "img": "/public/images/more/1.png"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/more/1.png"
     },
     {
       "id": 1,
       "link": "#",
       "title": "۴ قسطه",
-      "img": "/public/images/more/2.png"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/more/2.png"
     },
     {
       "id": 2,
       "link": "#",
       "title": "ارسال فوری فروشنده",
-      "img": "/public/images/more/3.png"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/more/3.png"
     },
     {
       "id": 3,
       "link": "#",
       "title": "تخفیف موبایل‌کارکرده",
-      "img": "/public/images/more/4.png"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/more/4.png"
     },
     {
       "id": 4,
       "link": "#",
       "title": "بیشترین‌تخفیف طلای‌فیزیکی",
-      "img": "/public/images/more/5.png"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/more/5.png"
     },
     {
       "id": 5,
       "link": "#",
       "title": "خرید خودرو",
-      "img": "/public/images/more/6.png"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/more/6.png"
     },
     {
       "id": 6,
       "link": "#",
       "title": "پرتخفیف‌های لوازم‌خانه",
-      "img": "/public/images/more/7.png"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/more/7.png"
     },
     {
       "id": 7,
       "link": "#",
       "title": "شگفت فروشگاه‌حضوری",
-      "img": "/public/images/more/8.png"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/more/8.png"
     },
 
     {
       "id": 8,
       "link": "#",
       "title": "تخفیف بومی‌محلی",
-      "img": "/public/images/more/9.png"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/more/9.png"
     },
     {
       "id": 9,
       "link": "#",
       "title": "بیشتر",
-      "img": "/public/images/more/10.png"
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/more/10.png"
     }
   ],
   "amazing": [
     {
       "id": 0,
       "link": "#",
-      "img": "/public/images/amazing/a-1.png",
-      "img2": "/public/images/amazing/a-2.png",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/a-1.png",
+      "img2": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/a-2.png",
       "time": "11:35:30",
       "see": "مشاهده همه"
     },
     {
       "id": 1,
-      "img": "/public/images/amazing/1.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/1.webp",
       "body": "مايع ظرفشويی پريل مدل ليمويی وزن 3750 گرم",
       "price": "۲۹۵,۰۰۰",
       "old": "۳۴۶,۰۰۰",
       "off": "۱۵%",
-      "toman": "/public/images/amazing/toman.svg"
+      "toman": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/toman.svg"
     },
     {
       "id": 2,
-      "img": "/public/images/amazing/2.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/2.webp",
       "body": "مایع سفیدکننده غلیظ سطوح دامستوس مدل Snow White حجم 750 میلی لیتر",
       "price": "۷۶,۰۰۰",
       "old": "۸۹,۰۰۰",
       "off": "۱۵%",
-      "toman": "/public/images/amazing/toman.svg"
+      "toman": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/toman.svg"
     },
     {
       "id": 3,
-      "img": "/public/images/amazing/3.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/3.webp",
       "body": "دستمال حوله ای فول تایم مدل رولی بسته 4 عددی ",
       "price": "۱۰۳,۰۰۰",
       "old": "۱۲۵,۰۰۰",
       "off": "۱۸%",
-      "toman": "/public/images/amazing/toman.svg"
+      "toman": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/toman.svg"
     },
     {
       "id": 4,
-      "img": "/public/images/amazing/4.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/4.webp",
       "body": "دستمال توالت فول تایم مدل رولی بسته 24 عددی",
       "price": "۴۶۹,۰۰۰",
       "old": "۵۵۱,۴۰۰",
       "off": "۱۵%",
-      "toman": "/public/images/amazing/toman.svg"
+      "toman": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/toman.svg"
     },
     {
       "id": 5,
-      "img": "/public/images/amazing/5.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/5.webp",
       "body": "دستمال کاغذی 100 برگ بی تا مدل White بسته 10 عددی",
       "price": "۲۸۱,۰۰۰",
       "old": "۳۳۰,۳۰۰",
       "off": "۱۵%",
-      "toman": "/public/images/amazing/toman.svg"
+      "toman": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/toman.svg"
     },
     {
       "id": 6,
-      "img": "/public/images/amazing/6.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/6.webp",
       "body": "بیسکویت سبوسدار ویتانا - 65 گرم بسته 24 عددی ",
       "price": "۱۳۸,۰۰۰",
       "old": "۲۳۷,۶۰۰",
       "off": "۴۲%",
-      "toman": "/public/images/amazing/toman.svg"
+      "toman": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/toman.svg"
     },
     {
       "id": 7,
-      "img": "/public/images/amazing/7.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/7.webp",
       "body": "پوشک کودک مولفیکس مدل چسبی سایز 4 بسته 34 عددی",
       "price": "۲۶۴,۰۰۰",
       "old": "۳۱۰,۰۰۰",
       "off": "۱۵%",
-      "toman": "/public/images/amazing/toman.svg"
+      "toman": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/toman.svg"
     },
     {
       "id": 8,
-      "img": "/public/images/amazing/8.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/8.webp",
       "body": "همبرگر ممتاز 95 درصد مهیا پروتئین - 400 گرم",
       "price": "۱۷۲,۰۰۰",
       "old": "۲۱۵,۰۰۰",
       "off": "۲۰%",
-      "toman": "/public/images/amazing/toman.svg"
+      "toman": "https://amin-khodajoo.github.io/api-digikala/public/images/amazing/toman.svg"
     }
   ],
   "best1": [
-    { "id": 0, "link": "#", "img": "/public/images/best/1.gif" },
-    { "id": 1, "link": "#", "img": "/public/images/best/2.webp" },
-    { "id": 2, "link": "#", "img": "/public/images/best/3.webp" },
-    { "id": 3, "link": "#", "img": "/public/images/best/4.webp" }
+    { "id": 0, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best/1.gif" },
+    { "id": 1, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best/2.webp" },
+    { "id": 2, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best/3.webp" },
+    { "id": 3, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best/4.webp" }
   ],
   "best2": [
-    { "id": 0, "link": "#", "img": "/public/images/best/5.webp" },
-    { "id": 1, "link": "#", "img": "/public/images/best/6.webp" },
-    { "id": 2, "link": "#", "img": "/public/images/best/7.webp" },
-    { "id": 3, "link": "#", "img": "/public/images/best/8.webp" }
+    { "id": 0, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best/5.webp" },
+    { "id": 1, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best/6.webp" },
+    { "id": 2, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best/7.webp" },
+    { "id": 3, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best/8.webp" }
   ],
   "best3": [
-    { "id": 0, "link": "#", "img": "/public/images/best/9.webp" },
-    { "id": 1, "link": "#", "img": "/public/images/best/10.webp" }
+    { "id": 0, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best/9.webp" },
+    { "id": 1, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best/10.webp" }
   ],
   "super1": [
-    { "id": 0, "link": "#", "img": "/public/images/super-market/01.png" }
+    { "id": 0, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/super-market/01.png" }
   ],
   "super2": [
     {
       "id": 0,
       "link": "#",
-      "img": "/public/images/super-market/11.webp",
-      "img2": "/public/images/super-market/12.svg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/super-market/11.webp",
+      "img2": "https://amin-khodajoo.github.io/api-digikala/public/images/super-market/12.svg",
       "title": "تا ۴۵٪ تخفیف"
     },
     {
@@ -2509,37 +2509,37 @@
         {
           "id": 0,
           "link": "#",
-          "img": "/public/images/super-market/21.webp",
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/super-market/21.webp",
           "off": "۱۵%"
         },
         {
           "id": 1,
           "link": "#",
-          "img": "/public/images/super-market/22.webp",
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/super-market/22.webp",
           "off": "۴۰%"
         },
         {
           "id": 2,
           "link": "#",
-          "img": "/public/images/super-market/23.webp",
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/super-market/23.webp",
           "off": "۲۰%"
         },
         {
           "id": 3,
           "link": "#",
-          "img": "/public/images/super-market/24.webp",
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/super-market/24.webp",
           "off": "۴۰%"
         },
         {
           "id": 4,
           "link": "#",
-          "img": "/public/images/super-market/25.webp",
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/super-market/25.webp",
           "off": "۱۸%"
         },
         {
           "id": 5,
           "link": "#",
-          "img": "/public/images/super-market/26.webp",
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/super-market/26.webp",
           "off": "۴۲%"
         }
       ]
@@ -2558,109 +2558,109 @@
           "id": 0,
           "link": "#",
           "title": "موبایل",
-          "img": "/public/images/slider-3/1.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/1.jpg"
         },
         {
           "id": 1,
           "link": "#",
           "title": "طلا و نقره",
-          "img": "/public/images/slider-3/2.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/2.jpg"
         },
         {
           "id": 2,
           "link": "#",
           "title": "لپ تاپ",
-          "img": "/public/images/slider-3/3.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/3.jpg"
         },
         {
           "id": 3,
           "link": "#",
           "title": "تجهیزات پزشکی و سلامت",
-          "img": "/public/images/slider-3/4.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/4.jpg"
         },
         {
           "id": 4,
           "link": "#",
           "title": "کالای دیجیتال",
-          "img": "/public/images/slider-3/5.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/5.jpg"
         },
         {
           "id": 5,
           "link": "#",
           "title": "کتاب، لوازم تحریر و هنر",
-          "img": "/public/images/slider-3/6.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/6.jpg"
         },
         {
           "id": 6,
           "link": "#",
           "title": "خانه و آشپزخانه",
-          "img": "/public/images/slider-3/7.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/7.jpg"
         },
         {
           "id": 7,
           "link": "#",
           "title": "کتاب، لوازم تحریر و هنر",
-          "img": "/public/images/slider-3/8.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/8.jpg"
         },
         {
           "id": 8,
           "link": "#",
           "title": "لوازم خانگی برقی",
-          "img": "/public/images/slider-3/9.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/9.jpg"
         },
         {
           "id": 9,
           "link": "#",
           "title": "کارت هدیه و گیفت کارت",
-          "img": "/public/images/slider-3/10.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/10.jpg"
         },
         {
           "id": 10,
           "link": "#",
           "title": "آرایشی بهداشتی",
-          "img": "/public/images/slider-3/11.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/11.jpg"
         },
         {
           "id": 11,
           "link": "#",
           "title": "سوپر مارکت آنلاین",
-          "img": "/public/images/slider-3/12.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/12.jpg"
         },
         {
           "id": 12,
           "link": "#",
           "title": "خودرو و موتورسیکلت",
-          "img": "/public/images/slider-3/13.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/13.jpg"
         },
         {
           "id": 13,
           "link": "#",
           "title": "اسباب بازی، کودک و نوزاد",
-          "img": "/public/images/slider-3/14.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/14.jpg"
         },
         {
           "id": 14,
           "link": "#",
           "title": "ابزار آلات و تجهیزات",
-          "img": "/public/images/slider-3/15.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/15.jpg"
         },
         {
           "id": 15,
           "link": "#",
           "title": "محصولات بومی و محلی",
-          "img": "/public/images/slider-3/16.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/16.jpg"
         },
         {
           "id": 16,
           "link": "#",
           "title": "مد و پوشاک",
-          "img": "/public/images/slider-3/17.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/17.jpg"
         },
         {
           "id": 17,
           "link": "#",
           "title": "کالای کارکرده",
-          "img": "/public/images/slider-3/18.jpg"
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/slider-3/18.jpg"
         }
       ]
     }
@@ -2670,26 +2670,26 @@
     {
       "id": 1,
       "dropdown": [
-        { "id": 0, "link": "#", "img": "/public/images/brands/1.png" },
-        { "id": 1, "link": "#", "img": "/public/images/brands/2.png" },
-        { "id": 2, "link": "#", "img": "/public/images/brands/3.png" },
-        { "id": 3, "link": "#", "img": "/public/images/brands/4.png" },
-        { "id": 4, "link": "#", "img": "/public/images/brands/5.png" },
-        { "id": 5, "link": "#", "img": "/public/images/brands/6.png" },
-        { "id": 6, "link": "#", "img": "/public/images/brands/7.png" },
-        { "id": 7, "link": "#", "img": "/public/images/brands/8.png" },
-        { "id": 8, "link": "#", "img": "/public/images/brands/9.png" },
-        { "id": 9, "link": "#", "img": "/public/images/brands/10.png" },
-        { "id": 10, "link": "#", "img": "/public/images/brands/11.png" },
-        { "id": 11, "link": "#", "img": "/public/images/brands/12.png" },
-        { "id": 12, "link": "#", "img": "/public/images/brands/13.png" },
-        { "id": 13, "link": "#", "img": "/public/images/brands/14.png" },
-        { "id": 14, "link": "#", "img": "/public/images/brands/15.png" },
-        { "id": 15, "link": "#", "img": "/public/images/brands/16.png" },
-        { "id": 16, "link": "#", "img": "/public/images/brands/17.png" },
-        { "id": 17, "link": "#", "img": "/public/images/brands/18.png" },
-        { "id": 18, "link": "#", "img": "/public/images/brands/19.png" },
-        { "id": 19, "link": "#", "img": "/public/images/brands/20.png" }
+        { "id": 0, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/1.png" },
+        { "id": 1, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/2.png" },
+        { "id": 2, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/3.png" },
+        { "id": 3, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/4.png" },
+        { "id": 4, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/5.png" },
+        { "id": 5, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/6.png" },
+        { "id": 6, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/7.png" },
+        { "id": 7, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/8.png" },
+        { "id": 8, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/9.png" },
+        { "id": 9, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/10.png" },
+        { "id": 10, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/11.png" },
+        { "id": 11, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/12.png" },
+        { "id": 12, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/13.png" },
+        { "id": 13, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/14.png" },
+        { "id": 14, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/15.png" },
+        { "id": 15, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/16.png" },
+        { "id": 16, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/17.png" },
+        { "id": 17, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/18.png" },
+        { "id": 18, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/19.png" },
+        { "id": 19, "link": "#", "img": "https://amin-khodajoo.github.io/api-digikala/public/images/brands/20.png" }
       ]
     }
   ],
@@ -2700,10 +2700,10 @@
       "link": "#",
       "see": "مشاهده",
       "images": [
-        { "id": 0, "img": "/public/images/taste-1/1.jpg" },
-        { "id": 1, "img": "/public/images/taste-1/2.jpg" },
-        { "id": 2, "img": "/public/images/taste-1/3.jpg" },
-        { "id": 3, "img": "/public/images/taste-1/4.jpg" }
+        { "id": 0, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-1/1.jpg" },
+        { "id": 1, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-1/2.jpg" },
+        { "id": 2, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-1/3.jpg" },
+        { "id": 3, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-1/4.jpg" }
       ]
     },
     {
@@ -2712,10 +2712,10 @@
       "link": "#",
       "see": "مشاهده",
       "images": [
-        { "id": 0, "img": "/public/images/taste-1/5.jpg" },
-        { "id": 1, "img": "/public/images/taste-1/6.jpg" },
-        { "id": 2, "img": "/public/images/taste-1/7.jpg" },
-        { "id": 3, "img": "/public/images/taste-1/8.jpg" }
+        { "id": 0, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-1/5.jpg" },
+        { "id": 1, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-1/6.jpg" },
+        { "id": 2, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-1/7.jpg" },
+        { "id": 3, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-1/8.jpg" }
       ]
     },
     {
@@ -2724,10 +2724,10 @@
       "link": "#",
       "see": "مشاهده",
       "images": [
-        { "id": 0, "img": "/public/images/taste-1/9.jpg" },
-        { "id": 1, "img": "/public/images/taste-1/10.jpg" },
-        { "id": 2, "img": "/public/images/taste-1/11.jpg" },
-        { "id": 3, "img": "/public/images/taste-1/12.jpg" }
+        { "id": 0, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-1/9.jpg" },
+        { "id": 1, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-1/10.jpg" },
+        { "id": 2, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-1/11.jpg" },
+        { "id": 3, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-1/12.jpg" }
       ]
     },
     {
@@ -2736,10 +2736,10 @@
       "link": "#",
       "see": "مشاهده",
       "images": [
-        { "id": 0, "img": "/public/images/taste-1/13.jpg" },
-        { "id": 1, "img": "/public/images/taste-1/14.jpg" },
-        { "id": 2, "img": "/public/images/taste-1/15.jpg" },
-        { "id": 3, "img": "/public/images/taste-1/16.jpg" }
+        { "id": 0, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-1/13.jpg" },
+        { "id": 1, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-1/14.jpg" },
+        { "id": 2, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-1/15.jpg" },
+        { "id": 3, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-1/16.jpg" }
       ]
     }
   ],
@@ -2750,10 +2750,10 @@
       "link": "#",
       "see": "مشاهده",
       "images": [
-        { "id": 0, "img": "/public/images/taste-2/1.jpg" },
-        { "id": 1, "img": "/public/images/taste-2/2.jpg" },
-        { "id": 2, "img": "/public/images/taste-2/3.jpg" },
-        { "id": 3, "img": "/public/images/taste-2/4.jpg" }
+        { "id": 0, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-2/1.jpg" },
+        { "id": 1, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-2/2.jpg" },
+        { "id": 2, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-2/3.jpg" },
+        { "id": 3, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-2/4.jpg" }
       ]
     },
     {
@@ -2762,10 +2762,10 @@
       "link": "#",
       "see": "مشاهده",
       "images": [
-        { "id": 0, "img": "/public/images/taste-2/5.jpg" },
-        { "id": 1, "img": "/public/images/taste-2/6.jpg" },
-        { "id": 2, "img": "/public/images/taste-2/7.jpg" },
-        { "id": 3, "img": "/public/images/taste-2/8.jpg" }
+        { "id": 0, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-2/5.jpg" },
+        { "id": 1, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-2/6.jpg" },
+        { "id": 2, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-2/7.jpg" },
+        { "id": 3, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-2/8.jpg" }
       ]
     },
     {
@@ -2774,10 +2774,10 @@
       "link": "#",
       "see": "مشاهده",
       "images": [
-        { "id": 0, "img": "/public/images/taste-2/9.jpg" },
-        { "id": 1, "img": "/public/images/taste-2/10.jpg" },
-        { "id": 2, "img": "/public/images/taste-2/11.jpg" },
-        { "id": 3, "img": "/public/images/taste-2/12.jpg" }
+        { "id": 0, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-2/9.jpg" },
+        { "id": 1, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-2/10.jpg" },
+        { "id": 2, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-2/11.jpg" },
+        { "id": 3, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-2/12.jpg" }
       ]
     },
     {
@@ -2786,10 +2786,10 @@
       "link": "#",
       "see": "مشاهده",
       "images": [
-        { "id": 0, "img": "/public/images/taste-2/13.jpg" },
-        { "id": 1, "img": "/public/images/taste-2/14.jpg" },
-        { "id": 2, "img": "/public/images/taste-2/15.jpg" },
-        { "id": 3, "img": "/public/images/taste-2/16.jpg" }
+        { "id": 0, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-2/13.jpg" },
+        { "id": 1, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-2/14.jpg" },
+        { "id": 2, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-2/15.jpg" },
+        { "id": 3, "img": "https://amin-khodajoo.github.io/api-digikala/public/images/taste-2/16.jpg" }
       ]
     }
   ],
@@ -2803,109 +2803,109 @@
     {
       "id": 1,
       "link": "#",
-      "img": "/public/images/best-selling/1.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/1.webp",
       "title": "هل سبز مصطفوی - 10 گرم"
     },
     {
       "id": 2,
       "link": "#",
-      "img": "/public/images/best-selling/2.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/2.webp",
       "title": "روغن آفتابگردان طبیعت - 1.5 لیتر"
     },
     {
       "id": 3,
       "link": "#",
-      "img": "/public/images/best-selling/3.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/3.webp",
       "title": "روغن آفتابگردان غنی شده با ویتامین D3 طبیعت - 900 میلی لیتر"
     },
     {
       "id": 4,
       "link": "#",
-      "img": "/public/images/best-selling/4.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/4.webp",
       "title": "شکر سفید الماس دانه - 1 کیلوگرم"
     },
     {
       "id": 5,
       "link": "#",
-      "img": "/public/images/best-selling/5.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/5.webp",
       "title": "کنسرو ماهی تون چین چین - 180 گرم"
     },
     {
       "id": 6,
       "link": "#",
-      "img": "/public/images/best-selling/6.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/6.webp",
       "title": "پودر لباسشویی دستی گلرنگ - 500 گرم "
     },
     {
       "id": 7,
       "link": "#",
-      "img": "/public/images/best-selling/7.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/7.webp",
       "title": "کرم ضدآفتاب و ضدلک بی‌رنگ لافارر مدل SPF50، مناسب پوست‌های چرب، حجم 40 میلی‌لیتر"
     },
     {
       "id": 8,
       "link": "#",
-      "img": "/public/images/best-selling/8.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/8.webp",
       "title": "روغن مایع آفتابگردان ساعی - 810 گرم"
     },
     {
       "id": 9,
       "link": "#",
-      "img": "/public/images/best-selling/9.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/9.webp",
       "title": "روغن سرخ کردنی کم جذب ساعی - 1620 گرم"
     },
     {
       "id": 10,
       "link": "#",
-      "img": "/public/images/best-selling/10.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/10.webp",
       "title": "روغن سرخ کردنی بدون پالم شفاف ساعی - 1620 گرم"
     },
     {
       "id": 11,
       "link": "#",
-      "img": "/public/images/best-selling/11.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/11.webp",
       "title": "روغن سرخ کردنی بدون پالم اویلا - 2 لیتر "
     },
     {
       "id": 12,
       "link": "#",
-      "img": "/public/images/best-selling/12.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/12.webp",
       "title": "آب آشامیدنی نستله سری پیور لایف - 1.5 لیتر بسته 6 عددی"
     },
     {
       "id": 13,
       "link": "#",
-      "img": "/public/images/best-selling/13.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/13.webp",
       "title": "مایع لباسشویی سرخابی اکتیو 2500 گرم"
     },
     {
       "id": 14,
       "link": "#",
-      "img": "/public/images/best-selling/14.jpg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/14.jpg",
       "title": "گوشی موبایل شیائومی مدل Redmi Note 14 4G دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت"
     },
     {
       "id": 15,
       "link": "#",
-      "img": "/public/images/best-selling/15.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/15.webp",
       "title": "کمپوت آناناس حلقه شده پیک - 565 گرم"
     },
     {
       "id": 16,
       "link": "#",
-      "img": "/public/images/best-selling/16.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/16.webp",
       "title": "رب گوجه فرنگی چین چین - 800 گرم"
     },
     {
       "id": 17,
       "link": "#",
-      "img": "/public/images/best-selling/17.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/17.webp",
       "title": "روغن مخصوص سرخ کردنی بهار - 810 گرم"
     },
     {
       "id": 18,
       "link": "#",
-      "img": "/public/images/best-selling/18.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/best-selling/18.webp",
       "title": "شکر سفید گلشکر - 1 کیلوگرم"
     }
   ],
@@ -2919,91 +2919,91 @@
     {
       "id": 1,
       "link": "#",
-      "img": "/public/images/hot/1.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/hot/1.webp",
       "title": "ساعت هوشمند ورنا مدل 01 Ultra Pack به همراه هندزفری"
     },
     {
       "id": 2,
       "link": "#",
-      "img": "/public/images/hot/2.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/hot/2.webp",
       "title": "ماکت ماشین ناب سل مدل مرسدس بنز فلزی موزیکال amg 300 به همراه جاسوییچی"
     },
     {
       "id": 3,
       "link": "#",
-      "img": "/public/images/hot/3.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/hot/3.webp",
       "title": "ماساژور برقی رومئو مدل RM-8787"
     },
     {
       "id": 4,
       "link": "#",
-      "img": "/public/images/hot/4.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/hot/4.webp",
       "title": "ساچمه نقره آذر نقره مدل Ag-10"
     },
     {
       "id": 5,
       "link": "#",
-      "img": "/public/images/hot/5.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/hot/5.webp",
       "title": "اسپرسوساز مباشی مدل ECM2015"
     },
     {
       "id": 6,
       "link": "#",
-      "img": "/public/images/hot/6.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/hot/6.webp",
       "title": "گهواره برقی نوزاد کیکابو مدل bee moove"
     },
     {
       "id": 7,
       "link": "#",
-      "img": "/public/images/hot/7.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/hot/7.webp",
       "title": "آچار بکس اینتیمکث کد 218PCS مجموعه 218 عددی"
     },
     {
       "id": 8,
       "link": "#",
-      "img": "/public/images/hot/8.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/hot/8.webp",
       "title": "ماکت ماشین ولی مدل MERCEDES BENZ G CLASS WAGON"
     },
     {
       "id": 9,
       "link": "#",
-      "img": "/public/images/hot/9.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/hot/9.webp",
       "title": "دسته بازی تسکو مدل TG 133W"
     },
     {
       "id": 10,
       "link": "#",
-      "img": "/public/images/hot/10.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/hot/10.webp",
       "title": "لوستر ام کی ای لایتینگ مدل مدرن کد Ringo-s-gy60"
     },
     {
       "id": 11,
       "link": "#",
-      "img": "/public/images/hot/11.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/hot/11.webp",
       "title": "ماشین لباسشویی 8 کیلوگرم اتوماتیک اسنوا مدل SWM-A81S"
     },
     {
       "id": 12,
       "link": "#",
-      "img": "/public/images/hot/12.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/hot/12.webp",
       "title": "ست سرهمی و کلاه نوزادی فیورلا مدل 58"
     },
     {
       "id": 13,
       "link": "#",
-      "img": "/public/images/hot/13.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/hot/13.webp",
       "title": "روغن موتور اسپیدی مدل سوپر پلاتینیوم 0W-20 حجم 5 لیتر"
     },
     {
       "id": 14,
       "link": "#",
-      "img": "/public/images/hot/14.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/hot/14.webp",
       "title": "شورت مردانه کولسی مدل p123"
     },
     {
       "id": 15,
       "link": "#",
-      "img": "/public/images/hot/15.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/hot/15.webp",
       "title": "گوشی موبایل سامسونگ مدل Galaxy A15 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام"
     }
   ],
@@ -3011,126 +3011,126 @@
     { "id": 0, "title": "منتخب محصولات تخفیف و حراج" },
     {
       "id": 1,
-      "img": "/public/images/discount/1.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/1.webp",
       "discount": "۸۹٪",
       "price": "۲۴,۹۰۰",
       "old": "۲۳۶,۰۰۰"
     },
     {
       "id": 2,
-      "img": "/public/images/discount/2.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/2.webp",
       "discount": "۸۵٪",
       "price": "۱۹۵,۰۰۰",
       "old": "۱,۳۰۰,۰۰۰"
     },
     {
       "id": 3,
-      "img": "/public/images/discount/3.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/3.webp",
       "discount": "۸۵٪",
       "price": "۱۴۹,۸۵۰",
       "old": "۹۹۹,۰۰۰"
     },
     {
       "id": 4,
-      "img": "/public/images/discount/4.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/4.webp",
       "discount": "۸۲٪",
       "price": "۱۰۰,۸۶۰",
       "old": "۵۷۱,۱۰۰"
     },
     {
       "id": 5,
-      "img": "/public/images/discount/5.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/5.webp",
       "discount": "۱۱٪",
       "price": "۴۴,۳۹۹,۰۰۰",
       "old": "۵۰,۰۰۰,۰۰۰"
     },
     {
       "id": 6,
-      "img": "/public/images/discount/6.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/6.webp",
       "discount": "۱٪",
       "price": "۴,۹۴۹,۰۰۰",
       "old": "۴,۹۹۹,۰۰۰"
     },
     {
       "id": 7,
-      "img": "/public/images/discount/7.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/7.webp",
       "discount": "۹٪",
       "price": "۷۰۹,۸۰۰",
       "old": "۷۸۰,۰۰۰"
     },
     {
       "id": 8,
-      "img": "/public/images/discount/8.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/8.webp",
       "discount": "۹٪",
       "price": "۶۶۹,۰۰۰",
       "old": "۷۳۵,۰۰۰"
     },
     {
       "id": 9,
-      "img": "/public/images/discount/9.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/9.webp",
       "discount": "۵۳٪",
       "price": "۲۵۹,۷۰۰",
       "old": "۵۵۰,۰۰۰"
     },
     {
       "id": 10,
-      "img": "/public/images/discount/10.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/10.webp",
       "discount": "۸۹٪",
       "price": "۳۶۸,۰۰۰",
       "old": "۳,۵۰۰,۰۰۰"
     },
     {
       "id": 11,
-      "img": "/public/images/discount/11.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/11.webp",
       "discount": "۸۹٪",
       "price": "۴۷۰,۰۰۰",
       "old": "۴,۳۸۰,۰۰۰"
     },
     {
       "id": 12,
-      "img": "/public/images/discount/12.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/12.webp",
       "discount": "۸۹٪",
       "price": "۳۷۰,۰۰۰",
       "old": "۳,۳۵۰,۰۰۰"
     },
     {
       "id": 13,
-      "img": "/public/images/discount/13.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/13.webp",
       "discount": "۸۹٪",
       "price": "۴۹۵,۰۰۰",
       "old": "۴,۵۰۰,۰۰۰"
     },
     {
       "id": 14,
-      "img": "/public/images/discount/14.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/14.webp",
       "discount": "۸۵٪",
       "price": "۴۹۹,۰۰۰",
       "old": "۳,۳۰۰,۰۰۰"
     },
     {
       "id": 15,
-      "img": "/public/images/discount/15.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/15.webp",
       "discount": "۸۴٪",
       "price": "۳۹۹,۰۰۰",
       "old": "۲,۵۰۰,۰۰۰"
     },
     {
       "id": 16,
-      "img": "/public/images/discount/16.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/16.webp",
       "discount": "۱٪",
       "price": "۹,۷۵۰,۰۰۰",
       "old": "۹,۷۷۰,۰۰۰"
     },
     {
       "id": 17,
-      "img": "/public/images/discount/17.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/17.webp",
       "discount": "۳۰٪",
       "price": "۲۰,۹۹۰,۰۰۰",
       "old": "۳۰,۰۰۰,۰۰۰"
     },
     {
       "id": 18,
-      "img": "/public/images/discount/18.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/discount/18.webp",
       "discount": "۲۹٪",
       "price": "۳۳,۲۱۷,۵۰۰",
       "old": "۴۶,۵۰۰,۰۰۰"
@@ -3146,32 +3146,32 @@
     {
       "id": 1,
       "link": "#",
-      "img": "/public/images/reading/1.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/reading/1.webp",
       "title": "ضعف پا کمبود کدام ویتامین است؟ ۷ ماده‌ی مغذی که باید بشناسید"
     },
     {
       "id": 2,
       "link": "#",
-      "img": "/public/images/reading/2.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/reading/2.webp",
       "title": "بهترین کولر گازی ۳۰۰۰۰ موجود در بازار کدام است؟"
     },
     {
       "id": 3,
       "link": "#",
-      "img": "/public/images/reading/3.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/reading/3.webp",
       "title": "۷ توصیه روانشناسی برای بازگشت به زندگی عادی"
     },
     {
       "id": 4,
       "link": "#",
-      "img": "/public/images/reading/4.webp",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/reading/4.webp",
       "title": "تفاوت اینترنت ملی و بین‌المللی چیست؟"
     }
   ],
   "footer1": [
     {
       "id": 0,
-      "logo": "/public/images/footer/1.svg",
+      "logo": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/1.svg",
       "backToTopText": "بازگشت به بالا",
       "backToTopLink": "#"
     }
@@ -3185,27 +3185,27 @@
   ],
   "footer3": [
     {
-      "img": "/public/images/footer/z1.svg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/z1.svg",
       "text": "اﻣﮑﺎن ﺗﺤﻮﯾﻞ اﮐﺴﭙﺮس",
       "link": "#"
     },
     {
-      "img": "/public/images/footer/z2.svg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/z2.svg",
       "text": "امکان پرداخت در محل",
       "link": "#"
     },
     {
-      "img": "/public/images/footer/z3.svg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/z3.svg",
       "text": "۷ روز ﻫﻔﺘﻪ، ۲۴ ﺳﺎﻋﺘﻪ",
       "link": "#"
     },
     {
-      "img": "/public/images/footer/z4.svg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/z4.svg",
       "text": "هفت روز ضمانت بازگشت کالا",
       "link": "#"
     },
     {
-      "img": "/public/images/footer/z5.svg",
+      "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/z5.svg",
       "text": "ﺿﻤﺎﻧﺖ اﺻﻞ ﺑﻮدن ﮐﺎﻟﺎ",
       "link": "#"
     }
@@ -3250,23 +3250,23 @@
   "footer5": [
     {
       "appDownload": {
-        "logo": "/public/images/footer/b1.webp",
+        "logo": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/b1.webp",
         "text": "دانلود اپلیکیشن دیجی‌کالا"
       },
       "appStores": [
         {
           "href": "#",
-          "img": "/public/images/footer/b2.svg",
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/b2.svg",
           "alt": "کافه بازار"
         },
         {
           "href": "#",
-          "img": "/public/images/footer/b3.svg",
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/b3.svg",
           "alt": "مایکت"
         },
         {
           "href": "#",
-          "img": "/public/images/footer/b4.svg",
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/b4.svg",
           "alt": "سیب اپ"
         }
       ],
@@ -3312,22 +3312,22 @@
       "logos": [
         {
           "href": "#",
-          "img": "/public/images/footer/s1.webp",
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/s1.webp",
           "alt": "لوگو 1"
         },
         {
           "href": "#",
-          "img": "/public/images/footer/s2.webp",
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/s2.webp",
           "alt": "لوگو 2"
         },
         {
           "href": "#",
-          "img": "/public/images/footer/s3.webp",
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/s3.webp",
           "alt": "لوگو 3"
         },
         {
           "href": "#",
-          "img": "/public/images/footer/s4.webp",
+          "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/s4.webp",
           "alt": "لوگو 4"
         }
       ]
@@ -3341,30 +3341,30 @@
   "footer8": [
     {
       "topRow": [
-        { "img": "/public/images/footer/1-1.svg", "href": "#" },
-        { "img": "/public/images/footer/1-2.svg", "href": "#" },
-        { "img": "/public/images/footer/1-3.svg", "href": "#" },
-        { "img": "/public/images/footer/1-4.svg", "href": "#" },
-        { "img": "/public/images/footer/1-5.svg", "href": "#" },
-        { "img": "/public/images/footer/1-6.svg", "href": "#" },
-        { "img": "/public/images/footer/1-7.svg", "href": "#" },
-        { "img": "/public/images/footer/1-8.svg", "href": "#" }
+        { "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/1-1.svg", "href": "#" },
+        { "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/1-2.svg", "href": "#" },
+        { "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/1-3.svg", "href": "#" },
+        { "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/1-4.svg", "href": "#" },
+        { "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/1-5.svg", "href": "#" },
+        { "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/1-6.svg", "href": "#" },
+        { "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/1-7.svg", "href": "#" },
+        { "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/1-8.svg", "href": "#" }
       ],
       "bottomRow": [
-        { "img": "/public/images/footer/2-1.svg", "href": "#" },
-        { "img": "/public/images/footer/2-2.svg", "href": "#" },
-        { "img": "/public/images/footer/2-3.svg", "href": "#" },
-        { "img": "/public/images/footer/2-4.svg", "href": "#" },
-        { "img": "/public/images/footer/2-5.svg", "href": "#" },
-        { "img": "/public/images/footer/2-6.svg", "href": "#" },
-        { "img": "/public/images/footer/2-7.svg", "href": "#" }
+        { "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/2-1.svg", "href": "#" },
+        { "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/2-2.svg", "href": "#" },
+        { "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/2-3.svg", "href": "#" },
+        { "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/2-4.svg", "href": "#" },
+        { "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/2-5.svg", "href": "#" },
+        { "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/2-6.svg", "href": "#" },
+        { "img": "https://amin-khodajoo.github.io/api-digikala/public/images/footer/2-7.svg", "href": "#" }
       ]
     }
   ],
   "meta": [
     {
       "title": "فروشگاه اینترنتی دیجی‌کالا",
-      "icon": "/public/images/icon.png"
+      "icon": "https://amin-khodajoo.github.io/api-digikala/public/images/icon.png"
     }
   ]
 }
