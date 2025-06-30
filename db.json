@@ -1,0 +1,3370 @@
+{
+  "post": [
+    {
+      "id": 0,
+      "title": "موبایل",
+      "image": "../public/images/header-category/1.svg",
+      "link": "#",
+      "dropdown": [
+        { "id": 0, "title": "همه محصولات موبایل", "link": "#", "type": true },
+        {
+          "id": 1,
+          "title": "برندهای مختلف کوشی موبایل",
+          "link": "#",
+          "type": true
+        },
+        { "id": 2, "title": "گوشی آیفون", "link": "#", "type": false },
+        { "id": 3, "title": "گوشی سامسونگ", "link": "#", "type": false },
+        { "id": 4, "title": "گوشی شیائومی", "link": "#", "type": false },
+        { "id": 5, "title": "گوشی نوکیا", "link": "#", "type": false },
+        { "id": 6, "title": "گوشی آنر", "link": "#", "type": false },
+        { "id": 7, "title": "گوشی ناتینگ فون", "link": "#", "type": false },
+        { "id": 8, "title": "گوشی ریلمی", "link": "#", "type": false },
+        { "id": 9, "title": "گوشی موتورولا", "link": "#", "type": false },
+        { "id": 10, "title": "گوشی تی سی ال", "link": "#", "type": false },
+        { "id": 11, "title": "گوشی هواوی", "link": "#", "type": false },
+        { "id": 12, "title": "گوشی داریا", "link": "#", "type": false },
+        { "id": 13, "title": "گوشی گوگل پیکسل", "link": "#", "type": false },
+        { "id": 14, "title": "گوشی اوپو", "link": "#", "type": false },
+        { "id": 15, "title": "گوشی آلکاتل", "link": "#", "type": false },
+        { "id": 16, "title": "گوشی جی ال ایکس", "link": "#", "type": false },
+        { "id": 17, "title": "گوشی وکال", "link": "#", "type": false },
+        { "id": 18, "title": "گوشی وان پلاس", "link": "#", "type": false },
+        { "id": 19, "title": "گوشی جنرال لوکس", "link": "#", "type": false },
+        { "id": 20, "title": "گوشی موبایل دوجی", "link": "#", "type": false },
+        { "id": 21, "title": "گوشی بلک ویو", "link": "#", "type": false },
+        { "id": 22, "title": "برندهای برتر", "link": "#", "type": true },
+        { "id": 23, "title": "سامسونگ", "link": "#", "type": false },
+        { "id": 24, "title": "اپل", "link": "#", "type": false },
+        { "id": 25, "title": "هوآوی", "link": "#", "type": false },
+        { "id": 26, "title": "آنر", "link": "#", "type": false },
+        { "id": 27, "title": "ریلمی", "link": "#", "type": false },
+        { "id": 28, "title": "گوشی براساس قیمت", "link": "#", "type": true },
+        { "id": 29, "title": "گوشی موبایل ارزان", "link": "#", "type": false },
+        { "id": 30, "title": "گوشی موبایل قسطی", "link": "#", "type": false },
+        {
+          "id": 31,
+          "title": "گوشی تا 2 میلیون تومان",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 32,
+          "title": "گوشی تا 5 میلیون تومان",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 33,
+          "title": "گوشی تا 7 میلیون تومان",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 34,
+          "title": "گوشی تا 15 میلیون تومان",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 35,
+          "title": "گوشی بالای 15 میلیون تومان",
+          "link": "#",
+          "type": false
+        },
+        { "id": 36, "title": "گوشی براساس عملکرد", "link": "#", "type": true },
+        { "id": 37, "title": "گوشی گیمینگ", "link": "#", "type": false },
+        { "id": 38, "title": "گوشی 5G", "link": "#", "type": false },
+        { "id": 39, "title": "گوشی دکمه ای", "link": "#", "type": false },
+        { "id": 40, "title": "گوشی ضدآب", "link": "#", "type": false },
+        { "id": 41, "title": "گوشی مناسب عکاسی", "link": "#", "type": false },
+        { "id": 42, "title": "گوشی میان رده", "link": "#", "type": false },
+        {
+          "id": 43,
+          "title": "گوشی اقتصادی و ارزان",
+          "link": "#",
+          "type": false
+        },
+        { "id": 44, "title": "گوشی دانش آموزی", "link": "#", "type": false },
+        { "id": 45, "title": "گوشی پرچمدار", "link": "#", "type": false },
+        { "id": 46, "title": "گوشی دو سیم کارت", "link": "#", "type": false },
+        {
+          "id": 47,
+          "title": "گوشی براساس حافظه داخلی",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 48,
+          "title": "گوشی تا 16 گیگابایت",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 49,
+          "title": "گوشی تا 32 گیگابایت",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 50,
+          "title": "گوشی تا 64 گیگابایت",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 51,
+          "title": "گوشی تا 128 گیگابایت",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 52,
+          "title": "گوشی تا 256 گیگابایت",
+          "link": "#",
+          "type": false
+        },
+        { "id": 53, "title": "گوشی تا 1 ترابایت", "link": "#", "type": false },
+        { "id": 54, "title": "رزولوشن عکس", "link": "#", "type": true },
+        {
+          "id": 55,
+          "title": "گوشی با دوربین 48 مگاپیکسل",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 56,
+          "title": "گوشی با دوربین 64 مگاپیکسل",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 57,
+          "title": "گوشی با 108 مگاپیکسل",
+          "link": "#",
+          "type": false
+        },
+        { "id": 58, "title": "لوازم جانبی موبایل", "link": "#", "type": true },
+        { "id": 59, "title": "شارژر گوشی", "link": "#", "type": false },
+        { "id": 60, "title": "شارژر وایرلس", "link": "#", "type": false },
+        { "id": 61, "title": "قاب و کاور گوشی", "link": "#", "type": false },
+        { "id": 62, "title": "گلس گوشی", "link": "#", "type": false },
+        { "id": 63, "title": "هولدر گوشی موبایل", "link": "#", "type": false },
+        { "id": 64, "title": "کابل شارژ و مبدل", "link": "#", "type": false },
+        {
+          "id": 65,
+          "title": "پاوربانک (شارژر همراه)",
+          "link": "#",
+          "type": false
+        },
+        { "id": 66, "title": "تبلت", "link": "#", "type": true },
+        { "id": 67, "title": "تبلت سامسونگ", "link": "#", "type": false },
+        { "id": 68, "title": "تبلت اپل(آی پد)", "link": "#", "type": false },
+        { "id": 69, "title": "تبلت شیائومی", "link": "#", "type": false },
+        { "id": 70, "title": "تبلت لنوو", "link": "#", "type": false },
+        { "id": 71, "title": "تبلت مایکروسافت", "link": "#", "type": false },
+        { "id": 72, "title": "تبلت دانش آموزی", "link": "#", "type": false },
+        { "id": 73, "title": "هدفون", "link": "#", "type": true },
+        { "id": 74, "title": "هدفون بی سیم", "link": "#", "type": false },
+        { "id": 75, "title": "هدفون اپل(ایرپاد)", "link": "#", "type": false },
+        { "id": 76, "title": "هدفون بیتس", "link": "#", "type": false },
+        { "id": 77, "title": "هدفون سونی", "link": "#", "type": false },
+        {
+          "id": 78,
+          "title": "هدفون سامسونگ(ایربادز)",
+          "link": "#",
+          "type": false
+        },
+        { "id": 79, "title": "هدفون شیائومی", "link": "#", "type": false },
+        { "id": 80, "title": "هدفون جی بی ال", "link": "#", "type": false },
+        {
+          "id": 81,
+          "title": "ساعت و مچ بند هوشمند",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 82,
+          "title": "ساعت هوشمند سامسونگ",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 83,
+          "title": "ساعت هوشمند شیائومی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 84, "title": "اپل واچ", "link": "#", "type": false },
+        { "id": 85, "title": "داغ ترین ها", "link": "#", "type": true },
+        { "id": 86, "title": "شارژر فندکی", "link": "#", "type": false },
+        { "id": 87, "title": "هولدر گردنی", "link": "#", "type": false },
+        { "id": 88, "title": "آیفون ۱۳", "link": "#", "type": false },
+        {
+          "id": 89,
+          "title": "جدیدترین محصولات اپل",
+          "link": "#",
+          "type": false
+        },
+        { "id": 90, "title": "داریا باند 5G", "link": "#", "type": false },
+        { "id": 91, "title": "موتورولا moto E13", "link": "#", "type": false },
+        { "id": 92, "title": "پوکو M5s", "link": "#", "type": false },
+        { "id": 93, "title": "گلکسی S23 Ultra", "link": "#", "type": false },
+        { "id": 94, "title": "پوکو C40", "link": "#", "type": false },
+        { "id": 95, "title": "ردمی نوت 12", "link": "#", "type": false },
+        { "id": 96, "title": "گلکسی S23 FE", "link": "#", "type": false },
+        { "id": 97, "title": "گلکسی A14", "link": "#", "type": false },
+        { "id": 98, "title": "گلکسی A24", "link": "#", "type": false },
+        { "id": 99, "title": "گلکسی A34", "link": "#", "type": false },
+        { "id": 100, "title": "گلکسی A54", "link": "#", "type": false },
+        { "id": 101, "title": "قاب گوشی سامسونگ", "link": "#", "type": false },
+        { "id": 102, "title": "قاب گوشی آیفون", "link": "#", "type": false },
+        { "id": 103, "title": "قاب گوشی شیائومی", "link": "#", "type": false }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "کالای دیجیتال",
+      "image": "../public/images/header-category/2.svg",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 0,
+          "title": "همه محصولات کالای دیجیتال",
+          "link": "#",
+          "type": true
+        },
+        { "id": 1, "title": "لپ تاپ", "link": "#", "type": true },
+        { "id": 2, "title": "لپ‌تاپ ایسوس", "link": "#", "type": false },
+        { "id": 3, "title": "لپ‌تاپ لنوو", "link": "#", "type": false },
+        { "id": 4, "title": "مک بوک", "link": "#", "type": false },
+        { "id": 5, "title": "لپ‌تاپ HP", "link": "#", "type": false },
+        { "id": 6, "title": "لپ‌تاپ دل", "link": "#", "type": false },
+        { "id": 7, "title": "لپ‌تاپ ایسر", "link": "#", "type": false },
+        { "id": 8, "title": "لپ‌تاپ ام اس آی", "link": "#", "type": false },
+        { "id": 9, "title": "لپ‌تاپ کاستوم", "link": "#", "type": false },
+        { "id": 10, "title": "لوازم جانبی لپ تاپ", "link": "#", "type": true },
+        { "id": 11, "title": "شارژر لپ‌تاپ", "link": "#", "type": false },
+        { "id": 12, "title": "کیف لپ‌تاپ", "link": "#", "type": false },
+        { "id": 13, "title": "کول پد", "link": "#", "type": false },
+        { "id": 14, "title": "استیکر لپ‌تاپ", "link": "#", "type": false },
+        { "id": 15, "title": "کنسول بازی", "link": "#", "type": true },
+        { "id": 16, "title": "ps5", "link": "#", "type": false },
+        { "id": 17, "title": "xbox", "link": "#", "type": false },
+        { "id": 18, "title": "ps4", "link": "#", "type": false },
+        { "id": 19, "title": "وسایل گیمینگ", "link": "#", "type": true },
+        { "id": 20, "title": "دسته بازی", "link": "#", "type": false },
+        { "id": 21, "title": "بازی ps5", "link": "#", "type": false },
+        { "id": 22, "title": "بازی ps4", "link": "#", "type": false },
+        { "id": 23, "title": "بازی pc", "link": "#", "type": false },
+        { "id": 24, "title": "دیسک های بازی", "link": "#", "type": false },
+        { "id": 25, "title": "فرمان بازی", "link": "#", "type": false },
+        { "id": 26, "title": "کامپیوتر", "link": "#", "type": true },
+        { "id": 27, "title": "all in one", "link": "#", "type": false },
+        { "id": 28, "title": "mini pc", "link": "#", "type": false },
+        { "id": 29, "title": "قلم نوری", "link": "#", "type": false },
+        { "id": 30, "title": "رم ریدر", "link": "#", "type": false },
+        { "id": 31, "title": "ماوس پد", "link": "#", "type": false },
+        { "id": 32, "title": "کیس اسمبل شده", "link": "#", "type": false },
+        { "id": 33, "title": "کیبورد", "link": "#", "type": true },
+        { "id": 34, "title": "کیبورد گیمینگ", "link": "#", "type": false },
+        { "id": 35, "title": "کیبورد بی سیم", "link": "#", "type": false },
+        { "id": 36, "title": "کیبورد مکانیکال", "link": "#", "type": false },
+        { "id": 37, "title": "کیس کامپیوتر", "link": "#", "type": true },
+        { "id": 38, "title": "کیس گیمینگ", "link": "#", "type": false },
+        { "id": 39, "title": "ماوس", "link": "#", "type": true },
+        { "id": 40, "title": "ماوس گیمینگ", "link": "#", "type": false },
+        { "id": 41, "title": "ماوس بی سیم", "link": "#", "type": false },
+        { "id": 42, "title": "مانیتور", "link": "#", "type": true },
+        { "id": 43, "title": "مانیتور گیمینگ", "link": "#", "type": false },
+        { "id": 44, "title": "اسپیکر", "link": "#", "type": true },
+        { "id": 45, "title": "اسپیکر بلوتوثی", "link": "#", "type": false },
+        { "id": 46, "title": "اسپیکر jbl", "link": "#", "type": false },
+        { "id": 47, "title": "اسپیکر هارمن کاردن", "link": "#", "type": false },
+        { "id": 48, "title": "اسپیکر سونی", "link": "#", "type": false },
+        { "id": 49, "title": "اسپیکر تسکو", "link": "#", "type": false },
+        { "id": 50, "title": "اسپیکر مکسیدر", "link": "#", "type": false },
+        { "id": 51, "title": "اسپیکر میکرولب", "link": "#", "type": false },
+        { "id": 52, "title": "پارتی باکس", "link": "#", "type": false },
+        { "id": 53, "title": "قطعات کامپیوتر", "link": "#", "type": true },
+        { "id": 54, "title": "پردازنده (cpu)", "link": "#", "type": false },
+        { "id": 55, "title": "کارت گرافیک", "link": "#", "type": false },
+        { "id": 56, "title": "مادربرد", "link": "#", "type": false },
+        { "id": 57, "title": "دانگل بلوتوث", "link": "#", "type": false },
+        { "id": 58, "title": "رم کامپیوتر", "link": "#", "type": true },
+        { "id": 59, "title": "هدفون", "link": "#", "type": true },
+        { "id": 60, "title": "هدفون بی سیم", "link": "#", "type": false },
+        { "id": 61, "title": "هدفون اپل (ایرپاد)", "link": "#", "type": false },
+        { "id": 62, "title": "هدفون بیتس", "link": "#", "type": false },
+        { "id": 63, "title": "هدفون سونی", "link": "#", "type": false },
+        {
+          "id": 64,
+          "title": "هدفون سامسونگ (ایربادز)",
+          "link": "#",
+          "type": false
+        },
+        { "id": 65, "title": "هدفون شیائومی", "link": "#", "type": false },
+        { "id": 66, "title": "هدفون جی بی ال", "link": "#", "type": false },
+        { "id": 67, "title": "هدفون ریزر", "link": "#", "type": false },
+        { "id": 68, "title": "هدست", "link": "#", "type": true },
+        {
+          "id": 69,
+          "title": "ساعت و مچ بند هوشمند",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 70,
+          "title": "ساعت هوشمند سامسونگ",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 71,
+          "title": "ساعت هوشمند شیائومی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 72, "title": "اپل واچ", "link": "#", "type": false },
+        { "id": 73, "title": "بند اپل واچ", "link": "#", "type": false },
+        { "id": 74, "title": "بند ساعت هوشمند", "link": "#", "type": false },
+        {
+          "id": 75,
+          "title": "لوازم جانبی ساعت هوشمند",
+          "link": "#",
+          "type": false
+        },
+        { "id": 76, "title": "دوربین", "link": "#", "type": true },
+        { "id": 77, "title": "دوربین فیلمبرداری", "link": "#", "type": false },
+        { "id": 78, "title": "دوربین کنون", "link": "#", "type": false },
+        { "id": 79, "title": "دوربین سونی", "link": "#", "type": false },
+        { "id": 80, "title": "دوربین چاپ سریع", "link": "#", "type": false },
+        { "id": 81, "title": "رینگ لایت", "link": "#", "type": false },
+        { "id": 82, "title": "پایه دوربین", "link": "#", "type": false },
+        { "id": 83, "title": "لنز دوربین", "link": "#", "type": false },
+        { "id": 84, "title": "کارت حافظه", "link": "#", "type": false },
+        {
+          "id": 85,
+          "title": "تجهیزات ذخیره‌سازی اطلاعات",
+          "link": "#",
+          "type": true
+        },
+        { "id": 86, "title": "هارد ssd", "link": "#", "type": false },
+        { "id": 87, "title": "هارد اینترنال", "link": "#", "type": false },
+        { "id": 88, "title": "هارد اکسترنال", "link": "#", "type": false },
+        { "id": 89, "title": "فلش", "link": "#", "type": true },
+        { "id": 90, "title": "فلش ۲۵۶ گیگ", "link": "#", "type": false },
+        { "id": 91, "title": "فلش ۱۲۸ گیگ", "link": "#", "type": false },
+        { "id": 92, "title": "فلش ۶۴ گیگ", "link": "#", "type": false },
+        { "id": 93, "title": "پاور بانک", "link": "#", "type": true },
+        { "id": 94, "title": "فست شارژ", "link": "#", "type": false },
+        { "id": 95, "title": "پاور بانک شیائومی", "link": "#", "type": false },
+        { "id": 96, "title": "پاور بانک انکر", "link": "#", "type": false },
+        { "id": 97, "title": "پاور بانک اپل", "link": "#", "type": false },
+        { "id": 98, "title": "پاور بانک سامسونگ", "link": "#", "type": false },
+        { "id": 99, "title": "پاور بانک انرجایزر", "link": "#", "type": false },
+        { "id": 100, "title": "باتری", "link": "#", "type": true },
+        { "id": 101, "title": "باتری لیتیومی", "link": "#", "type": false },
+        { "id": 102, "title": "باتری قلمی", "link": "#", "type": false },
+        { "id": 103, "title": "پرینتر", "link": "#", "type": true },
+        { "id": 104, "title": "پرینتر سه بعدی", "link": "#", "type": false },
+        { "id": 105, "title": "پرینتر حرارتی", "link": "#", "type": false },
+        { "id": 106, "title": "پرینتر رنگی", "link": "#", "type": false },
+        { "id": 107, "title": "پرینتر لیبل زن", "link": "#", "type": false },
+        { "id": 108, "title": "پرینتر اچ پی", "link": "#", "type": false },
+        { "id": 109, "title": "ماشین‌های اداری", "link": "#", "type": true },
+        { "id": 110, "title": "کابل پرینتر", "link": "#", "type": false },
+        { "id": 111, "title": "کارتریج", "link": "#", "type": false },
+        { "id": 112, "title": "اسکنر", "link": "#", "type": false },
+        { "id": 113, "title": "تلفن", "link": "#", "type": false },
+        { "id": 114, "title": "بارکدخوان", "link": "#", "type": false },
+        { "id": 115, "title": "ویدئو وال", "link": "#", "type": false },
+        { "id": 116, "title": "ویدئو پروژکتور", "link": "#", "type": false },
+        {
+          "id": 117,
+          "title": "دستگاه حضور و غیاب",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 118,
+          "title": "تجهیزات شبکه و ارتباطات",
+          "link": "#",
+          "type": true
+        },
+        { "id": 119, "title": "یو پی اس (UPS)", "link": "#", "type": false },
+        { "id": 120, "title": "سوییچ", "link": "#", "type": false },
+        { "id": 121, "title": "پچ پنل", "link": "#", "type": false },
+        { "id": 122, "title": "اکسس پوینت", "link": "#", "type": false },
+        { "id": 123, "title": "هاب USB", "link": "#", "type": false },
+        { "id": 124, "title": "کابل شبکه", "link": "#", "type": false },
+        { "id": 125, "title": "کارت شبکه", "link": "#", "type": false },
+        { "id": 126, "title": "سیم آنتن", "link": "#", "type": false },
+        { "id": 127, "title": "اسپلیتر", "link": "#", "type": false },
+        { "id": 128, "title": "مودم", "link": "#", "type": true },
+        { "id": 129, "title": "مودم جیبی", "link": "#", "type": false },
+        { "id": 130, "title": "مودم ایرانسل", "link": "#", "type": false },
+        { "id": 131, "title": "مودم همراه اول", "link": "#", "type": false },
+        {
+          "id": 132,
+          "title": "تجهیزات امنیتی و نظارتی",
+          "link": "#",
+          "type": true
+        },
+        { "id": 133, "title": "دوربین مدار بسته", "link": "#", "type": false },
+        { "id": 134, "title": "تبلت", "link": "#", "type": true },
+        { "id": 135, "title": "خانه هوشمند", "link": "#", "type": true },
+        { "id": 136, "title": "برندهای برتر", "link": "#", "type": true },
+        { "id": 137, "title": "شیائومی", "link": "#", "type": false },
+        { "id": 138, "title": "سامسونگ", "link": "#", "type": false },
+        { "id": 139, "title": "اپل", "link": "#", "type": false },
+        { "id": 140, "title": "هواوی", "link": "#", "type": false },
+        { "id": 141, "title": "آنر", "link": "#", "type": false },
+        { "id": 142, "title": "ریلمی", "link": "#", "type": false },
+        { "id": 143, "title": "توشیبا", "link": "#", "type": false },
+        { "id": 144, "title": "تکنو", "link": "#", "type": false },
+        { "id": 145, "title": "ایرانسل", "link": "#", "type": false },
+        { "id": 146, "title": "مبین نت", "link": "#", "type": false },
+        { "id": 147, "title": "نینتندو", "link": "#", "type": false },
+        { "id": 148, "title": "بیتس", "link": "#", "type": false },
+        { "id": 149, "title": "جی بی ال", "link": "#", "type": false },
+        { "id": 150, "title": "وان مور", "link": "#", "type": false },
+        { "id": 151, "title": "تی پی لینک", "link": "#", "type": false },
+        { "id": 152, "title": "دی لینک", "link": "#", "type": false },
+        { "id": 153, "title": "کیو سی وای", "link": "#", "type": false },
+        { "id": 154, "title": "داغ ترین ها", "link": "#", "type": true },
+        { "id": 155, "title": "گیمینگ", "link": "#", "type": false },
+        { "id": 156, "title": "هدفون گربه ای", "link": "#", "type": false },
+        { "id": 157, "title": "فیفا", "link": "#", "type": false },
+        { "id": 158, "title": "مک بوک ایر m1", "link": "#", "type": false },
+        { "id": 159, "title": "مک بوک ایر m2", "link": "#", "type": false },
+        { "id": 160, "title": "مک بوک ایر m3", "link": "#", "type": false },
+        { "id": 161, "title": "مک بوک پرو m3", "link": "#", "type": false }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "کتاب،لوازم تحریر و هنر",
+      "image": "../public/images/header-category/3.svg",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 0,
+          "title": "همه محصولات کتاب، لوازم تحریر و هنر",
+          "link": "#",
+          "type": true
+        },
+        { "id": 1, "title": "کتاب و مجله", "link": "#", "type": true },
+        { "id": 2, "title": "کتاب چاپی", "link": "#", "type": false },
+        { "id": 3, "title": "مجلات خارجی و داخلی", "link": "#", "type": false },
+        { "id": 4, "title": "کتاب صوتی", "link": "#", "type": true },
+        { "id": 5, "title": "محتوای آموزشی", "link": "#", "type": true },
+        { "id": 6, "title": "آموزش موسیقی", "link": "#", "type": false },
+        { "id": 7, "title": "آموزش ورزش و سرگرمی", "link": "#", "type": false },
+        { "id": 8, "title": "آموزش زبان", "link": "#", "type": false },
+        {
+          "id": 9,
+          "title": "آموزش نرم افزار و کامپیوتر",
+          "link": "#",
+          "type": false
+        },
+        { "id": 10, "title": "نرم افزار", "link": "#", "type": true },
+        {
+          "id": 11,
+          "title": "بازی کنسول و کامپیوتر",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 12,
+          "title": "فیلم سینمایی، سریال و مستند",
+          "link": "#",
+          "type": true
+        },
+        { "id": 13, "title": "آلبوم موسیقی", "link": "#", "type": true },
+        {
+          "id": 14,
+          "title": "لوازم اداری و اقلام مصرفی",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 15,
+          "title": "کیف، کوله پشتی و جامدادی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 16, "title": "چراغ مطالعه", "link": "#", "type": false },
+        {
+          "id": 17,
+          "title": "کاغذ کادو، پاکت و کارت هدیه",
+          "link": "#",
+          "type": false
+        },
+        { "id": 18, "title": "نوشت افزار", "link": "#", "type": false },
+        { "id": 19, "title": "دفتر و کاغذ", "link": "#", "type": false },
+        { "id": 20, "title": "خودکار و روان نویس", "link": "#", "type": false },
+        {
+          "id": 21,
+          "title": "ابزار نقاشی و رنگ آمیزی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 22, "title": "میز تحریر", "link": "#", "type": false },
+        { "id": 23, "title": "آلبوم عکس", "link": "#", "type": false },
+        { "id": 24, "title": "کاغذ چاپ و پرینتر", "link": "#", "type": false },
+        { "id": 25, "title": "مداد و مداد رنگی", "link": "#", "type": false },
+        { "id": 26, "title": "آلات موسیقی", "link": "#", "type": true },
+        {
+          "id": 27,
+          "title": "لوازم جانبی آلات موسیقی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 28, "title": "گیتار", "link": "#", "type": false },
+        { "id": 29, "title": "کیبورد و ارگ", "link": "#", "type": false },
+        { "id": 30, "title": "پیانو دیجیتال", "link": "#", "type": false },
+        { "id": 31, "title": "درام، پرکاشن، دف", "link": "#", "type": false },
+        { "id": 31, "title": "تجهیزات استودیویی", "link": "#", "type": false },
+        { "id": 32, "title": "ویولن", "link": "#", "type": false },
+        { "id": 33, "title": "سازهای ایرانی", "link": "#", "type": false },
+        {
+          "id": 34,
+          "title": "فرش ماشینی، دستبافت، تابلو",
+          "link": "#",
+          "type": true
+        },
+        { "id": 35, "title": "فرش ماشینی", "link": "#", "type": false },
+        { "id": 36, "title": "فرش دستبافت", "link": "#", "type": false },
+        { "id": 37, "title": "تابلو", "link": "#", "type": false },
+        { "id": 38, "title": "صنایع دستی", "link": "#", "type": true },
+        { "id": 39, "title": "کالاهای مس", "link": "#", "type": false },
+        {
+          "id": 40,
+          "title": "سفال، سرامیک و چینی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 41, "title": "کیف چرمی", "link": "#", "type": false },
+        {
+          "id": 42,
+          "title": "ترمه، قلمکار و دستبافت",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 43,
+          "title": "خاتم، منبت، حصیری و چوبی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 44, "title": "تابلو و ساعت", "link": "#", "type": false },
+        { "id": 45, "title": "میناکاری", "link": "#", "type": false },
+        { "id": 46, "title": "فیروزه کوبی", "link": "#", "type": false },
+        { "id": 47, "title": "سوزن دوزی", "link": "#", "type": false },
+        { "id": 48, "title": "محصولات استخوانی", "link": "#", "type": false },
+        {
+          "id": 49,
+          "title": "جعبه و دست سازه های هنری",
+          "link": "#",
+          "type": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "خانه و آشپزخانه",
+      "image": "../public/images/header-category/4.svg",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 0,
+          "title": "همه محصولات کالای خانه و آشپزخانه",
+          "link": "#",
+          "type": true
+        },
+        { "id": 1, "title": "ظروف پخت و پز", "link": "#", "type": true },
+        { "id": 2, "title": "قابلمه و تابه", "link": "#", "type": false },
+        { "id": 3, "title": "زودپز", "link": "#", "type": false },
+        { "id": 4, "title": "سرویس پخت و پز", "link": "#", "type": false },
+        { "id": 5, "title": "ابزار آشپزی", "link": "#", "type": true },
+        { "id": 6, "title": "ست کفگیر و ملاقه", "link": "#", "type": false },
+        { "id": 7, "title": "چاقو", "link": "#", "type": false },
+        { "id": 8, "title": "تخته گوشت", "link": "#", "type": false },
+        { "id": 9, "title": "ظرف و قالب یخ", "link": "#", "type": false },
+        { "id": 10, "title": "قیف", "link": "#", "type": false },
+        { "id": 11, "title": "صافی", "link": "#", "type": false },
+        { "id": 12, "title": "گردو شکن", "link": "#", "type": false },
+        { "id": 13, "title": "فندک آشپزخانه", "link": "#", "type": false },
+        { "id": 14, "title": "ترازوی آشپزخانه", "link": "#", "type": false },
+        {
+          "id": 15,
+          "title": "تهیه و سرو چای و قهوه",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 16,
+          "title": "قهوه ساز و دمنوش ساز",
+          "link": "#",
+          "type": false
+        },
+        { "id": 17, "title": "سماور", "link": "#", "type": false },
+        { "id": 18, "title": "شیر جوش - قهوه جوش", "link": "#", "type": false },
+        { "id": 19, "title": "قوری", "link": "#", "type": false },
+        { "id": 20, "title": "کتری و قوری", "link": "#", "type": false },
+        { "id": 21, "title": "فیلتر چای", "link": "#", "type": false },
+        {
+          "id": 22,
+          "title": "مبلمان و دکوراسیون خانگی",
+          "link": "#",
+          "type": true
+        },
+        { "id": 23, "title": "پاف و بین بگ", "link": "#", "type": false },
+        { "id": 24, "title": "مبل", "link": "#", "type": false },
+        { "id": 25, "title": "کتابخانه", "link": "#", "type": false },
+        { "id": 26, "title": "شلف و طبقه", "link": "#", "type": false },
+        { "id": 27, "title": "کنسول", "link": "#", "type": false },
+        { "id": 28, "title": "صندلی", "link": "#", "type": false },
+        { "id": 29, "title": "میز ناهارخوری", "link": "#", "type": false },
+        {
+          "id": 30,
+          "title": "مبلمان و دکوراسیون اداری",
+          "link": "#",
+          "type": true
+        },
+        { "id": 31, "title": "صندلی اداری", "link": "#", "type": false },
+        { "id": 32, "title": "میز اداری", "link": "#", "type": false },
+        {
+          "id": 33,
+          "title": "نگهدارنده لباس و لوازم",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 34,
+          "title": "کمد لباس و ارگانایزر",
+          "link": "#",
+          "type": false
+        },
+        { "id": 35, "title": "جاکفشی", "link": "#", "type": false },
+        { "id": 36, "title": "جالباسی", "link": "#", "type": false },
+        { "id": 37, "title": "کاور لوازم خانگی", "link": "#", "type": false },
+        { "id": 38, "title": "حمام", "link": "#", "type": true },
+        { "id": 39, "title": "حوله", "link": "#", "type": false },
+        { "id": 40, "title": "دمپایی", "link": "#", "type": false },
+        { "id": 41, "title": "لیف", "link": "#", "type": false },
+        { "id": 42, "title": "پرده حمام", "link": "#", "type": false },
+        { "id": 43, "title": "وان و جکوزی", "link": "#", "type": false },
+        { "id": 44, "title": "ابزار حمام", "link": "#", "type": false },
+        { "id": 45, "title": "سرویس بهداشتی", "link": "#", "type": true },
+        { "id": 46, "title": "توالت فرنگی", "link": "#", "type": false },
+        { "id": 47, "title": "ست سرویس بهداشتی", "link": "#", "type": false },
+        { "id": 48, "title": "روشویی", "link": "#", "type": false },
+        { "id": 49, "title": "جامسواکی", "link": "#", "type": false },
+        { "id": 50, "title": "آینه سرویس بهداشتی", "link": "#", "type": false },
+        { "id": 51, "title": "فلاش تانک", "link": "#", "type": false },
+        { "id": 52, "title": "خواب", "link": "#", "type": true },
+        { "id": 53, "title": "شستشو و نظافت", "link": "#", "type": true },
+        { "id": 54, "title": "نظافت لباس", "link": "#", "type": true }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "لوازم خانگی برقی",
+      "image": "../public/images/header-category/5.svg",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 0,
+          "title": "همه محصولات لوازم خانگی برقی",
+          "link": "#",
+          "type": true
+        },
+        { "id": 1, "title": "صوتی و تصویری", "link": "#", "type": true },
+        { "id": 2, "title": "تلویزیون", "link": "#", "type": false },
+        { "id": 3, "title": "ساندبار", "link": "#", "type": false },
+        { "id": 4, "title": "ویدیو پروژکتور", "link": "#", "type": false },
+        { "id": 5, "title": "پخش کننده خانگی", "link": "#", "type": false },
+        {
+          "id": 6,
+          "title": "لوازم جانبی صوتی و تصویری",
+          "link": "#",
+          "type": false
+        },
+        { "id": 7, "title": "ریموت کنترل", "link": "#", "type": false },
+        { "id": 8, "title": "میز تلویزیون", "link": "#", "type": false },
+        {
+          "id": 9,
+          "title": "تهویه، سرمایش و گرمایش",
+          "link": "#",
+          "type": true
+        },
+        { "id": 10, "title": "بخاری", "link": "#", "type": false },
+        { "id": 11, "title": "تصفیه کننده هوا", "link": "#", "type": false },
+        { "id": 12, "title": "بخاری برقی", "link": "#", "type": false },
+        {
+          "id": 13,
+          "title": "پکیج دیواری و رادیاتور",
+          "link": "#",
+          "type": false
+        },
+        { "id": 14, "title": "شوفاژ برقی", "link": "#", "type": false },
+        { "id": 15, "title": "آبگرمکن", "link": "#", "type": false },
+        { "id": 16, "title": "پنکه", "link": "#", "type": false },
+        { "id": 17, "title": "کولر آبی", "link": "#", "type": false },
+        { "id": 18, "title": "کولر گازی", "link": "#", "type": false },
+        { "id": 19, "title": "تصفیه آب", "link": "#", "type": true },
+        { "id": 20, "title": "فیلتر تصفیه آب", "link": "#", "type": false },
+        { "id": 21, "title": "یخچال فریزر", "link": "#", "type": true },
+        {
+          "id": 22,
+          "title": "یخچال فریزر ساید بای ساید",
+          "link": "#",
+          "type": false
+        },
+        { "id": 23, "title": "یخچال فریزر دوقلو", "link": "#", "type": false },
+        { "id": 24, "title": "یخچال فریزر هتلی", "link": "#", "type": false },
+        { "id": 25, "title": "یخچال فریزر کمبی", "link": "#", "type": false },
+        { "id": 26, "title": "جاروبرقی", "link": "#", "type": true },
+        { "id": 27, "title": "جارو شارژی", "link": "#", "type": false },
+        {
+          "id": 28,
+          "title": "لوازم جانبی جاروبرقی و بخارشور",
+          "link": "#",
+          "type": false
+        },
+        { "id": 29, "title": "بخار شو", "link": "#", "type": true },
+        { "id": 30, "title": "ماشین لباسشویی", "link": "#", "type": true },
+        { "id": 31, "title": "ماشین لباسشویی دوو", "link": "#", "type": false },
+        {
+          "id": 32,
+          "title": "ماشین لباسشویی پاکشوما",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 33,
+          "title": "ماشین لباسشویی اسنوا",
+          "link": "#",
+          "type": false
+        },
+        { "id": 34, "title": "مینی واش", "link": "#", "type": false },
+        { "id": 35, "title": "ماشین ظرفشویی", "link": "#", "type": true },
+        {
+          "id": 36,
+          "title": "ماشین ظرفشویی جی پلاس",
+          "link": "#",
+          "type": false
+        },
+        { "id": 37, "title": "اتو", "link": "#", "type": true },
+        { "id": 38, "title": "اتو بخار ایستاده", "link": "#", "type": false },
+        { "id": 39, "title": "اتو بخار", "link": "#", "type": false },
+        { "id": 40, "title": "بخارگر", "link": "#", "type": false },
+        { "id": 41, "title": "چرخ خیاطی", "link": "#", "type": true },
+        { "id": 42, "title": "چرخ خیاطی ژانومه", "link": "#", "type": false },
+        { "id": 43, "title": "چرخ خیاطی کاچیران", "link": "#", "type": false },
+        { "id": 44, "title": "لوازم پخت و پز", "link": "#", "type": true },
+        {
+          "id": 45,
+          "title": "سرخ کن بدون روغن (airfrier)",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 46,
+          "title": "مایکروویو، مایکروفر",
+          "link": "#",
+          "type": false
+        },
+        { "id": 47, "title": "اجاق گاز", "link": "#", "type": false },
+        { "id": 48, "title": "پلوپز", "link": "#", "type": false },
+        {
+          "id": 49,
+          "title": "ساندویچ ساز و وافل ساز",
+          "link": "#",
+          "type": false
+        },
+        { "id": 50, "title": "آون توستر", "link": "#", "type": false },
+        { "id": 51, "title": "گریل و باربیکیو", "link": "#", "type": false },
+        { "id": 52, "title": "توستر", "link": "#", "type": false },
+        { "id": 53, "title": "نوشیدنی ساز", "link": "#", "type": true },
+        { "id": 54, "title": "قهوه ساز", "link": "#", "type": false },
+        { "id": 55, "title": "اسپرسو ساز", "link": "#", "type": false },
+        { "id": 56, "title": "چای ساز", "link": "#", "type": false },
+        { "id": 57, "title": "کتری برقی", "link": "#", "type": false },
+        { "id": 58, "title": "سماور برقی", "link": "#", "type": false },
+        { "id": 59, "title": "آبمیوه گیری", "link": "#", "type": false },
+        { "id": 60, "title": "آب مرکبات گیر", "link": "#", "type": false },
+        { "id": 61, "title": "آسیاب قهوه", "link": "#", "type": false },
+        { "id": 62, "title": "خردکن و غذاساز", "link": "#", "type": true },
+        { "id": 63, "title": "گوشت کوب برقی", "link": "#", "type": false },
+        { "id": 64, "title": "غذاساز", "link": "#", "type": false },
+        { "id": 65, "title": "همزن", "link": "#", "type": false },
+        { "id": 66, "title": "مخلوط کن", "link": "#", "type": false },
+        { "id": 67, "title": "چرخ گوشت", "link": "#", "type": false },
+        { "id": 68, "title": "خردکن", "link": "#", "type": false },
+        { "id": 69, "title": "آسیاب", "link": "#", "type": false },
+        { "id": 70, "title": "لوازم توکار", "link": "#", "type": true },
+        { "id": 71, "title": "فر", "link": "#", "type": false },
+        { "id": 72, "title": "هود", "link": "#", "type": false },
+        { "id": 73, "title": "گاز صفحه ای", "link": "#", "type": false },
+        { "id": 74, "title": "سینک ظرفشویی", "link": "#", "type": false }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "مد و پوشاک",
+      "image": "../public/images/header-category/6.svg",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 0,
+          "title": "همه محصولات مد و پوشاک",
+          "link": "#",
+          "type": true
+        },
+        { "id": 1, "title": "پوشاک مردانه", "link": "#", "type": true },
+        { "id": 2, "title": "لباس مردانه", "link": "#", "type": true },
+        { "id": 3, "title": "هودی مردانه", "link": "#", "type": false },
+        { "id": 4, "title": "سویشرت مردانه", "link": "#", "type": false },
+        { "id": 5, "title": "ژاکت و پلیور مردانه", "link": "#", "type": false },
+        { "id": 6, "title": "تی شرت مردانه", "link": "#", "type": false },
+        { "id": 7, "title": "پیراهن مردانه", "link": "#", "type": false },
+        { "id": 8, "title": "لباس زیر مردانه", "link": "#", "type": false },
+        { "id": 9, "title": "شلوار مردانه", "link": "#", "type": false },
+        {
+          "id": 10,
+          "title": "پالتو، بارانی و کاپشن مردانه",
+          "link": "#",
+          "type": true
+        },
+        { "id": 11, "title": "پالتو مردانه", "link": "#", "type": false },
+        { "id": 12, "title": "کاپشن مردانه", "link": "#", "type": false },
+        { "id": 13, "title": "کت چرم مردانه", "link": "#", "type": false },
+        { "id": 14, "title": "پافر مردانه", "link": "#", "type": false },
+        {
+          "id": 15,
+          "title": "کت، جلیقه و ست رسمی مردانه",
+          "link": "#",
+          "type": true
+        },
+        { "id": 16, "title": "کت تک مردانه", "link": "#", "type": false },
+        { "id": 17, "title": "کت شلوار مردانه", "link": "#", "type": false },
+        { "id": 18, "title": "جلیقه مردانه", "link": "#", "type": false },
+        { "id": 19, "title": "پوشاک زنانه", "link": "#", "type": true },
+        { "id": 20, "title": "لباس زنانه", "link": "#", "type": true },
+        { "id": 21, "title": "سویشرت زنانه", "link": "#", "type": false },
+        { "id": 21, "title": "هودی زنانه", "link": "#", "type": false },
+        { "id": 23, "title": "مانتو پانچو رویه", "link": "#", "type": false },
+        { "id": 24, "title": "تیشرت زنانه", "link": "#", "type": false },
+        { "id": 25, "title": "بلوز و شومیز زنانه", "link": "#", "type": true },
+        {
+          "id": 26,
+          "title": "تاپ و نیم تنه زنانه",
+          "link": "#",
+          "type": false
+        },
+        { "id": 27, "title": "لباس راحتی زنانه", "link": "#", "type": false },
+        { "id": 28, "title": "لباس زیر زنانه", "link": "#", "type": false },
+        { "id": 29, "title": "دامن زنانه", "link": "#", "type": false },
+        {
+          "id": 30,
+          "title": "پیراهن و لباس مجلسی زنانه",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 31,
+          "title": "لباس خواب و راحتی زنانه",
+          "link": "#",
+          "type": true
+        },
+        { "id": 32, "title": "لباس خواب زنانه", "link": "#", "type": false },
+        { "id": 33, "title": "بلوز و شومیز زنانه", "link": "#", "type": false },
+        { "id": 34, "title": "بادی زنانه", "link": "#", "type": false },
+        { "id": 35, "title": "ژاکت و پلیور زنانه", "link": "#", "type": false },
+        {
+          "id": 36,
+          "title": "تاپ و نیم تنه زنانه",
+          "link": "#",
+          "type": false
+        },
+        { "id": 37, "title": "تونیک زنانه", "link": "#", "type": false },
+        { "id": 38, "title": "تیشرت زنانه", "link": "#", "type": false },
+        { "id": 39, "title": "برند هامتو", "link": "#", "type": true },
+        { "id": 40, "title": "برند چرم مشهد", "link": "#", "type": true },
+        { "id": 41, "title": "برند اسمارا", "link": "#", "type": true },
+        { "id": 42, "title": "برند کروم", "link": "#", "type": true },
+        { "id": 43, "title": "برند سرژه", "link": "#", "type": true },
+        { "id": 44, "title": "برند گردیه", "link": "#", "type": true },
+        { "id": 45, "title": "برند چرم عطارد", "link": "#", "type": true },
+        { "id": 46, "title": "شلوار پلنگی", "link": "#", "type": true },
+        { "id": 47, "title": "شلوار بگ", "link": "#", "type": true },
+        { "id": 48, "title": "شلوار مام استایل", "link": "#", "type": true },
+        { "id": 49, "title": "شلوار کارگو", "link": "#", "type": true },
+        { "id": 50, "title": "شلوار دمپا", "link": "#", "type": true },
+        { "id": 51, "title": "شلوار مام فیت", "link": "#", "type": true }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "طلا و نقره",
+      "image": "../public/images/header-category/7.svg",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 0,
+          "title": "همه محصولات طلا و نقره",
+          "link": "#",
+          "type": true
+        },
+        { "id": 1, "title": "شمش و پلاک طلا", "link": "#", "type": true },
+        { "id": 2, "title": "سکه طلا", "link": "#", "type": true },
+        { "id": 3, "title": "ربع سکه", "link": "#", "type": false },
+        { "id": 4, "title": "نیم سکه", "link": "#", "type": false },
+        { "id": 5, "title": "سکه تمام", "link": "#", "type": false },
+        { "id": 6, "title": "سکه پارسیان", "link": "#", "type": false },
+        { "id": 7, "title": "طلای آب شده", "link": "#", "type": true },
+        { "id": 8, "title": "زیورآلات طلا زنانه", "link": "#", "type": true },
+        { "id": 9, "title": "زنجیر طلا زنانه", "link": "#", "type": false },
+        { "id": 10, "title": "انگشتر طلا زنانه", "link": "#", "type": false },
+        { "id": 11, "title": "دستبند طلا زنانه", "link": "#", "type": false },
+        { "id": 12, "title": "النگو طلا زنانه", "link": "#", "type": false },
+        { "id": 13, "title": "گردنبند طلا زنانه", "link": "#", "type": false },
+        { "id": 14, "title": "گوشواره طلا", "link": "#", "type": false },
+        { "id": 15, "title": "پابند طلا", "link": "#", "type": false },
+        { "id": 16, "title": "گل سینه طلا زنانه", "link": "#", "type": false },
+        {
+          "id": 17,
+          "title": "ست زیورآلات طلا زنانه",
+          "link": "#",
+          "type": false
+        },
+        { "id": 18, "title": "آویز طلا زنانه", "link": "#", "type": false },
+        { "id": 19, "title": "پیرسینگ طلا زنانه", "link": "#", "type": false },
+        {
+          "id": 20,
+          "title": "آویز ساعت طلا زنانه",
+          "link": "#",
+          "type": false
+        },
+        { "id": 21, "title": "جاکلیدی طلا زنانه", "link": "#", "type": false },
+        {
+          "id": 22,
+          "title": "زیورآلات نقره زنانه",
+          "link": "#",
+          "type": false
+        },
+        { "id": 23, "title": "انگشتر نقره زنانه", "link": "#", "type": false },
+        { "id": 24, "title": "دستبند نقره زنانه", "link": "#", "type": false },
+        { "id": 25, "title": "گردنبند نقره زنانه", "link": "#", "type": false },
+        { "id": 26, "title": "زنجیر نقره زنانه", "link": "#", "type": false },
+        { "id": 27, "title": "گوشواره نقره زنانه", "link": "#", "type": false },
+        { "id": 28, "title": "پابند نقره زنانه", "link": "#", "type": false },
+        { "id": 29, "title": "پیرسینگ نقره زنانه", "link": "#", "type": false },
+        { "id": 30, "title": "آویز نقره زنانه", "link": "#", "type": false },
+        {
+          "id": 31,
+          "title": "آویز ساعت نقره زنانه",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 32,
+          "title": "زیورآلات نقره مردانه",
+          "link": "#",
+          "type": true
+        },
+        { "id": 33, "title": "انگشتر نقره مردانه", "link": "#", "type": false },
+        {
+          "id": 34,
+          "title": "گردنبند نقره مردانه",
+          "link": "#",
+          "type": false
+        },
+        { "id": 35, "title": "زنجیر نقره مردانه", "link": "#", "type": false },
+        { "id": 36, "title": "دستبند نقره مردانه", "link": "#", "type": false },
+        {
+          "id": 37,
+          "title": "زیورآلات نقره زنانه و مردانه",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 38,
+          "title": "جاکلیدی نقره زنانه و مردانه",
+          "link": "#",
+          "type": false
+        },
+        { "id": 39, "title": "مستجابی", "link": "#", "type": true },
+        { "id": 40, "title": "گالری طلا پرسته", "link": "#", "type": true },
+        { "id": 41, "title": "ماوی گالری", "link": "#", "type": true },
+        { "id": 42, "title": "پولک", "link": "#", "type": true },
+        { "id": 43, "title": "تاج", "link": "#", "type": true },
+        { "id": 44, "title": "گالری روبی آرت", "link": "#", "type": true },
+        { "id": 45, "title": "گالری شیدا مجد", "link": "#", "type": true },
+        { "id": 46, "title": "هور گلد گالری", "link": "#", "type": true },
+        { "id": 47, "title": "مه گلد گالری", "link": "#", "type": true },
+        { "id": 48, "title": "مایاماهک", "link": "#", "type": true },
+        { "id": 49, "title": "طلای پارسیس", "link": "#", "type": true },
+        { "id": 50, "title": "خانه سکه", "link": "#", "type": true },
+        { "id": 51, "title": "دوست خوب", "link": "#", "type": true },
+        { "id": 52, "title": "اورل گالری", "link": "#", "type": true },
+        { "id": 53, "title": "سهی", "link": "#", "type": true },
+        { "id": 54, "title": "کاپانی", "link": "#", "type": true }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "آرایشی بهداشتی",
+      "image": "../public/images/header-category/8.svg",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 0,
+          "title": "همه محصولات آرایشی بهداشتی",
+          "link": "#",
+          "type": true
+        },
+        { "id": 1, "title": "لوازم آرایشی", "link": "#", "type": true },
+        { "id": 2, "title": "آرایش صورت", "link": "#", "type": false },
+        { "id": 3, "title": "آرایش چشم", "link": "#", "type": false },
+        { "id": 4, "title": "آرایش ابرو", "link": "#", "type": false },
+        { "id": 5, "title": "آرایش لب", "link": "#", "type": false },
+        {
+          "id": 6,
+          "title": "بهداشت و زیبایی ناخن",
+          "link": "#",
+          "type": false
+        },
+        { "id": 7, "title": "ابزار آرایشی", "link": "#", "type": false },
+        { "id": 8, "title": "مراقبت پوست", "link": "#", "type": true },
+        { "id": 9, "title": "ضد آفتاب", "link": "#", "type": false },
+        {
+          "id": 10,
+          "title": "کرم مرطوب کننده و نرم کننده",
+          "link": "#",
+          "type": false
+        },
+        { "id": 11, "title": "ماسک صورت و بدن", "link": "#", "type": false },
+        { "id": 12, "title": "پاک کننده صورت", "link": "#", "type": false },
+        { "id": 13, "title": "تونر", "link": "#", "type": false },
+        { "id": 14, "title": "مراقبت بدن", "link": "#", "type": false },
+        { "id": 15, "title": "ابزار مراقبت پوست", "link": "#", "type": false },
+        { "id": 16, "title": "مراقبت و زیبایی مو", "link": "#", "type": true },
+        { "id": 17, "title": "شامپو و مراقبت مو", "link": "#", "type": false },
+        { "id": 18, "title": "آرایش مو", "link": "#", "type": false },
+        { "id": 19, "title": "لوازم بهداشتی", "link": "#", "type": true },
+        {
+          "id": 20,
+          "title": "مراقبت دهان و دندان",
+          "link": "#",
+          "type": false
+        },
+        { "id": 21, "title": "مسواک", "link": "#", "type": false },
+        { "id": 22, "title": "خمیر دندان", "link": "#", "type": false },
+        {
+          "id": 23,
+          "title": "دئودورانت و ضد تعریق",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 24,
+          "title": "محصولات بهداشت جنسی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 25, "title": "کاندوم", "link": "#", "type": false },
+        {
+          "id": 26,
+          "title": "بهداشت و مراقبت شخصی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 27, "title": "نوار بهداشتی", "link": "#", "type": false },
+        { "id": 28, "title": "کاپ قاعدگی", "link": "#", "type": false },
+        { "id": 29, "title": "لوازم اصلاح مو", "link": "#", "type": false },
+        { "id": 30, "title": "تیغ و یدک اصلاح", "link": "#", "type": false },
+        { "id": 31, "title": "عطر و ادکلن", "link": "#", "type": true },
+        { "id": 32, "title": "عطر و ادکلن زنانه", "link": "#", "type": false },
+        { "id": 33, "title": "عطر و ادکلن مردانه", "link": "#", "type": false },
+        { "id": 34, "title": "بادی اسپلش", "link": "#", "type": false },
+        { "id": 35, "title": "عطر جیبی", "link": "#", "type": false },
+        { "id": 36, "title": "لوازم شخصی برقی", "link": "#", "type": true },
+        { "id": 37, "title": "سشوار", "link": "#", "type": false },
+        {
+          "id": 38,
+          "title": "اتو و حالت دهنده‌ی مو",
+          "link": "#",
+          "type": false
+        },
+        { "id": 39, "title": "اصلاح موی صورت", "link": "#", "type": false },
+        { "id": 40, "title": "اصلاح موی سر", "link": "#", "type": false }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "تجهیزات پزشکی و سلامت",
+      "image": "../public/images/header-category/9.svg",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 0,
+          "title": "همه محصولات تجهیزات پزشکی و سلامت",
+          "link": "#",
+          "type": true
+        },
+        { "id": 1, "title": "تجهیزات پزشکی", "link": "#", "type": true },
+        { "id": 2, "title": "کنترل دیابت", "link": "#", "type": false },
+        { "id": 3, "title": "سرماخوردگی", "link": "#", "type": false },
+        { "id": 4, "title": "تجهیزات پزشکی تنفسی", "link": "#", "type": false },
+        {
+          "id": 5,
+          "title": "تجهیزات پزشکی حرفه ای",
+          "link": "#",
+          "type": false
+        },
+        { "id": 6, "title": "لوازم پزشک", "link": "#", "type": false },
+        { "id": 7, "title": "ماساژور", "link": "#", "type": false },
+        { "id": 8, "title": "فشارسنج", "link": "#", "type": false },
+        { "id": 9, "title": "ترازو", "link": "#", "type": false },
+        { "id": 10, "title": "پد و کیسه آب گرم", "link": "#", "type": false },
+        { "id": 11, "title": "تشک و پتوی برقی", "link": "#", "type": false },
+        { "id": 12, "title": "تب سنج و دماسنج", "link": "#", "type": false },
+        { "id": 13, "title": "دماسنج محیطی", "link": "#", "type": false },
+        {
+          "id": 14,
+          "title": "دستگاه های عمومی پزشکی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 15, "title": "لوازم جانبی پزشکی", "link": "#", "type": false },
+        { "id": 16, "title": "سلامت محیط", "link": "#", "type": false },
+        { "id": 17, "title": "کیسه نمک-درد", "link": "#", "type": false },
+        { "id": 18, "title": "رطوبت‌ گیر", "link": "#", "type": false },
+        { "id": 19, "title": "بی بی چک", "link": "#", "type": false },
+        { "id": 20, "title": "مکمل غذایی", "link": "#", "type": true },
+        { "id": 21, "title": "مکمل ورزشی", "link": "#", "type": true },
+        { "id": 22, "title": "پروتئین", "link": "#", "type": false },
+        { "id": 23, "title": "آمینو اسید", "link": "#", "type": false },
+        { "id": 24, "title": "کراتین", "link": "#", "type": false },
+        { "id": 25, "title": "مکمل افزایش وزن", "link": "#", "type": false },
+        { "id": 26, "title": "مکمل کاهش وزن", "link": "#", "type": false },
+        {
+          "id": 27,
+          "title": "ارتوپدی و کمک درمانی",
+          "link": "#",
+          "type": true
+        },
+        { "id": 28, "title": "لوازم پزشکی مصرفی", "link": "#", "type": true },
+        { "id": 29, "title": "تجهیزات دندانپزشکی", "link": "#", "type": true }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "ورزش و سفر",
+      "image": "../public/images/header-category/10.svg",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 0,
+          "title": "همه محصولات ورزش و سفر",
+          "link": "#",
+          "type": true
+        },
+        { "id": 1, "title": "پوشاک ورزشی مردانه", "link": "#", "type": true },
+        { "id": 2, "title": "پوشاک ورزشی زنانه", "link": "#", "type": true },
+        { "id": 3, "title": "کفش ورزشی مردانه", "link": "#", "type": true },
+        { "id": 4, "title": "کفش ورزشی زنانه", "link": "#", "type": true },
+        { "id": 5, "title": "پوشاک ورزشی پسرانه", "link": "#", "type": true },
+        { "id": 6, "title": "پوشاک ورزشی دخترانه", "link": "#", "type": true },
+        { "id": 7, "title": "کفش ورزشی پسرانه", "link": "#", "type": true },
+        { "id": 8, "title": "کفش ورزشی دخترانه", "link": "#", "type": true },
+        { "id": 9, "title": "تجهیزات سفر", "link": "#", "type": true },
+        { "id": 10, "title": "ساک و چمدان", "link": "#", "type": false },
+        { "id": 11, "title": "کیف و کوله پشتی", "link": "#", "type": false },
+        { "id": 12, "title": "دوچرخه", "link": "#", "type": true },
+        { "id": 13, "title": "لوازم جانبی دوچرخه", "link": "#", "type": false },
+        { "id": 14, "title": "کوهنوردی و کمپینگ", "link": "#", "type": true },
+        { "id": 15, "title": "کفش کوهنوردی", "link": "#", "type": false },
+        { "id": 16, "title": "عصای کوهنوردی", "link": "#", "type": false },
+        {
+          "id": 17,
+          "title": "چراغ قوه و چراغ پیشانی",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 18,
+          "title": "چاقو و ابزار چندکاره",
+          "link": "#",
+          "type": false
+        },
+        { "id": 19, "title": "قمقمه و فلاسک", "link": "#", "type": false },
+        { "id": 20, "title": "چادر", "link": "#", "type": false },
+        { "id": 21, "title": "کیسه خواب", "link": "#", "type": false },
+        { "id": 22, "title": "زیرانداز سفری", "link": "#", "type": false },
+        {
+          "id": 23,
+          "title": "تجهیزات جانبی سفر و کمپینگ",
+          "link": "#",
+          "type": false
+        },
+        { "id": 24, "title": "میز و صندلی سفری", "link": "#", "type": false },
+        { "id": 25, "title": "چتر", "link": "#", "type": true },
+        { "id": 26, "title": "ساک ورزشی", "link": "#", "type": true },
+        { "id": 27, "title": "قمقمه و شیکر", "link": "#", "type": true },
+        { "id": 28, "title": "لوازم ورزشی", "link": "#", "type": true },
+        {
+          "id": 29,
+          "title": "ورزش های هوازی و بدنسازی",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 30,
+          "title": "تجهیزات جانبی ایروبیک و تناسب اندام",
+          "link": "#",
+          "type": false
+        },
+        { "id": 31, "title": "دمبل", "link": "#", "type": false },
+        { "id": 32, "title": "طناب", "link": "#", "type": false },
+        { "id": 33, "title": "بارفیکس", "link": "#", "type": false },
+        { "id": 34, "title": "تردمیل", "link": "#", "type": false },
+        {
+          "id": 35,
+          "title": "لوازم پوششی و محافظتی ورزشی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 36, "title": "ورزش های توپی", "link": "#", "type": true },
+        { "id": 37, "title": "توپ", "link": "#", "type": false },
+        { "id": 38, "title": "راکت", "link": "#", "type": false },
+        { "id": 39, "title": "ورزش های آبی", "link": "#", "type": true },
+        { "id": 40, "title": "ورزش های رزمی", "link": "#", "type": true },
+        { "id": 41, "title": "اسکوتر برقی", "link": "#", "type": true },
+        { "id": 42, "title": "اسکیت و اسکوتر", "link": "#", "type": true }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "خودرو و موتورسیکلت",
+      "image": "../public/images/header-category/11.svg",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 0,
+          "title": "همه محصولات خودرو و موتورسیکلت",
+          "link": "#",
+          "type": true
+        },
+        { "id": 1, "title": "لوازم مصرفی خودرو", "link": "#", "type": true },
+        { "id": 2, "title": "روغن موتور", "link": "#", "type": false },
+        { "id": 3, "title": "فیلترها", "link": "#", "type": false },
+        { "id": 4, "title": "قطعات سرویسی", "link": "#", "type": false },
+        { "id": 5, "title": "روغن گیربکس", "link": "#", "type": false },
+        { "id": 6, "title": "روغن هیدرولیک", "link": "#", "type": false },
+        { "id": 7, "title": "ضدیخ و آب رادیاتور", "link": "#", "type": false },
+        { "id": 8, "title": "باتری", "link": "#", "type": false },
+        { "id": 9, "title": "لاستیک", "link": "#", "type": false },
+        { "id": 10, "title": "مکمل سوخت و روغن", "link": "#", "type": false },
+        { "id": 11, "title": "واکس و پولیش", "link": "#", "type": false },
+        { "id": 12, "title": "لوازم نظافت خودرو", "link": "#", "type": false },
+        { "id": 13, "title": "لوازم یدکی خودرو", "link": "#", "type": true },
+        { "id": 14, "title": "لوازم بدنه", "link": "#", "type": false },
+        { "id": 15, "title": "چراغ", "link": "#", "type": false },
+        { "id": 16, "title": "آینه جانبی", "link": "#", "type": false },
+        {
+          "id": 17,
+          "title": "لوازم جلوبندی و تعلیق",
+          "link": "#",
+          "type": false
+        },
+        { "id": 18, "title": "لوازم الکترونیکی", "link": "#", "type": false },
+        { "id": 19, "title": "لوازم مکانیکی", "link": "#", "type": false },
+        { "id": 20, "title": "لوازم صوتی و تصویری", "link": "#", "type": true },
+        { "id": 21, "title": "دستگاه پخش", "link": "#", "type": false },
+        { "id": 22, "title": "بلندگو", "link": "#", "type": false },
+        { "id": 23, "title": "آمپلی فایر", "link": "#", "type": false },
+        { "id": 24, "title": "اف ام پلیر", "link": "#", "type": false },
+        { "id": 25, "title": "مسیریاب خودرو", "link": "#", "type": false },
+        {
+          "id": 26,
+          "title": "لوازم جانبی صوتی و تصویری",
+          "link": "#",
+          "type": false
+        },
+        { "id": 27, "title": "لوازم جانبی خودرو", "link": "#", "type": true },
+        { "id": 28, "title": "روکش صندلی", "link": "#", "type": false },
+        { "id": 29, "title": "کفپوش خودرو", "link": "#", "type": false },
+        { "id": 30, "title": "کفپوش صندوق خودرو", "link": "#", "type": false },
+        {
+          "id": 31,
+          "title": "عایق کاپوت، صندوق و دربها",
+          "link": "#",
+          "type": false
+        },
+        { "id": 32, "title": "چادر خودرو", "link": "#", "type": false },
+        { "id": 33, "title": "تجهیزات نظم دهنده", "link": "#", "type": false },
+        {
+          "id": 34,
+          "title": "تجهیزات راحتی سرنشین",
+          "link": "#",
+          "type": false
+        },
+        { "id": 35, "title": "لوازم ضد سرقت", "link": "#", "type": false },
+        {
+          "id": 36,
+          "title": "دوربین ثبت وقایع خودرو",
+          "link": "#",
+          "type": false
+        },
+        { "id": 37, "title": "پا رکابی", "link": "#", "type": false },
+        { "id": 38, "title": "اسپویلر و دیفیوزر", "link": "#", "type": false },
+        { "id": 39, "title": "هدلایت", "link": "#", "type": false },
+        { "id": 40, "title": "جاسوئیچی", "link": "#", "type": false },
+        {
+          "id": 41,
+          "title": "خوشبوکننده و تصفیه کننده هوای کابین",
+          "link": "#",
+          "type": false
+        },
+        { "id": 42, "title": "باربند", "link": "#", "type": false },
+        { "id": 43, "title": "سر اگزوز", "link": "#", "type": false },
+        { "id": 44, "title": "سر دنده", "link": "#", "type": false },
+        { "id": 45, "title": "لوازم تزئینی خودرو", "link": "#", "type": false },
+        { "id": 46, "title": "تجهیزات آفرود", "link": "#", "type": false },
+        {
+          "id": 47,
+          "title": "تیونینگ و تقویت موتور",
+          "link": "#",
+          "type": false
+        },
+        { "id": 48, "title": "جک خودرو", "link": "#", "type": false },
+        { "id": 49, "title": "کمربند ایمنی", "link": "#", "type": false },
+        { "id": 50, "title": "آنتن خودرو", "link": "#", "type": false },
+        { "id": 51, "title": "والف لاستیک", "link": "#", "type": false },
+        { "id": 52, "title": "غربیلک فرمان", "link": "#", "type": false },
+        { "id": 53, "title": "سایر لوازم جانبی", "link": "#", "type": false },
+        { "id": 54, "title": "لوازم موتور سیکلت", "link": "#", "type": true },
+        { "id": 55, "title": "لوازم مصرفی", "link": "#", "type": false },
+        { "id": 56, "title": "لوازم یدکی", "link": "#", "type": false },
+        { "id": 57, "title": "لوازم جانبی", "link": "#", "type": false },
+        { "id": 58, "title": "لوازم ضد سرقت", "link": "#", "type": false },
+        { "id": 59, "title": "موتور سیکلت", "link": "#", "type": true },
+        { "id": 60, "title": "موتورسیکلت چکی", "link": "#", "type": true },
+        { "id": 61, "title": "خودرو", "link": "#", "type": true }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "ابزار آلات و تجهیزات",
+      "image": "../public/images/header-category/12.svg",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 0,
+          "title": "همه محصولات ابزار آلات و تجهیزات",
+          "link": "#",
+          "type": true
+        },
+        { "id": 1, "title": "ابزار برقی", "link": "#", "type": true },
+        {
+          "id": 2,
+          "title": "دریل، پیچ گوشتی و آچار بکس",
+          "link": "#",
+          "type": false
+        },
+        { "id": 3, "title": "فرز و سنگ رومیزی", "link": "#", "type": false },
+        { "id": 4, "title": "موتور برق", "link": "#", "type": false },
+        { "id": 5, "title": "مکنده - دمنده", "link": "#", "type": false },
+        { "id": 6, "title": "جاروبرقی صنعتی", "link": "#", "type": false },
+        { "id": 7, "title": "کارواش", "link": "#", "type": false },
+        { "id": 8, "title": "دستگاه جوش", "link": "#", "type": false },
+        { "id": 9, "title": "هویه", "link": "#", "type": false },
+        {
+          "id": 10,
+          "title": "ابزار برش و تراشکاری",
+          "link": "#",
+          "type": false
+        },
+        { "id": 11, "title": "کمپرسور هوا", "link": "#", "type": false },
+        { "id": 12, "title": "مولتی متر", "link": "#", "type": false },
+        {
+          "id": 13,
+          "title": "لوازم جانبی و یدکی ابزار برقی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 14, "title": "اره زنجیری", "link": "#", "type": false },
+        { "id": 15, "title": "ابزار غیر برقی", "link": "#", "type": true },
+        { "id": 16, "title": "ابزار دستی", "link": "#", "type": false },
+        { "id": 17, "title": "مجموعه ابزار", "link": "#", "type": false },
+        { "id": 18, "title": "نردبان", "link": "#", "type": false },
+        { "id": 19, "title": "پیچ گوشتی و فازمتر", "link": "#", "type": false },
+        { "id": 20, "title": "نظم دهنده ابزار", "link": "#", "type": false },
+        {
+          "id": 21,
+          "title": "متر، تراز، اندازه‌گیری دقیق",
+          "link": "#",
+          "type": false
+        },
+        { "id": 22, "title": "لوازم روانکاری", "link": "#", "type": false },
+        { "id": 23, "title": "چسب صنعتی", "link": "#", "type": false },
+        { "id": 24, "title": "انواع آچار و انبر", "link": "#", "type": false },
+        {
+          "id": 25,
+          "title": "پیچ و مهره، رول پلاک، میخ و پرچ",
+          "link": "#",
+          "type": false
+        },
+        { "id": 26, "title": "مته و سری", "link": "#", "type": false },
+        { "id": 27, "title": "اره", "link": "#", "type": false },
+        { "id": 28, "title": "لوازم بسته بندی", "link": "#", "type": false },
+        {
+          "id": 29,
+          "title": "لوازم الکتریکی و یراق آلات",
+          "link": "#",
+          "type": true
+        },
+        { "id": 30, "title": "رنگ", "link": "#", "type": false },
+        { "id": 31, "title": "لوازم الکتریکی", "link": "#", "type": false },
+        { "id": 32, "title": "مصالح ساختمانی", "link": "#", "type": false },
+        { "id": 33, "title": "زنگ و در بازکن", "link": "#", "type": false },
+        {
+          "id": 34,
+          "title": "لوازم باغبانی و کشاورزی",
+          "link": "#",
+          "type": true
+        },
+        { "id": 35, "title": "ابزار باغبانی", "link": "#", "type": false },
+        { "id": 36, "title": "ادوات کشاورزی", "link": "#", "type": false },
+        { "id": 37, "title": "بذر و تخم گیاهان", "link": "#", "type": false },
+        { "id": 38, "title": "خاک، کود و آفت کش", "link": "#", "type": false },
+        { "id": 39, "title": "کاشت و پرورش گیاه", "link": "#", "type": false },
+        { "id": 40, "title": "تجهیزات ایمنی و کار", "link": "#", "type": true },
+        { "id": 41, "title": "ماسک تنفسی", "link": "#", "type": false },
+        { "id": 42, "title": "لوازم آتش‌نشانی", "link": "#", "type": false },
+        { "id": 43, "title": "لوازم ایمنی و کار", "link": "#", "type": false },
+        { "id": 44, "title": "جعبه کمک‌های اولیه", "link": "#", "type": false },
+        {
+          "id": 45,
+          "title": "برچسب و علائم ایمنی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 46, "title": "حفاظتی و امنیتی", "link": "#", "type": true },
+        { "id": 47, "title": "گاوصندوق", "link": "#", "type": false },
+        { "id": 48, "title": "قفل", "link": "#", "type": false },
+        {
+          "id": 49,
+          "title": "دستگاه های حمل و بالابر صنعتی",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 50,
+          "title": "قطعات یدکی ماشین آلات صنعتی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 51, "title": "تجهیزات کارگاهی", "link": "#", "type": false },
+        { "id": 52, "title": "شیرآلات", "link": "#", "type": true },
+        { "id": 53, "title": "ست شیرآلات", "link": "#", "type": false },
+        { "id": 54, "title": "شیر ظرفشویی", "link": "#", "type": false },
+        { "id": 55, "title": "شیر روشویی", "link": "#", "type": false },
+        { "id": 56, "title": "شیرآلات حمام", "link": "#", "type": false },
+        { "id": 57, "title": "شیر توالت", "link": "#", "type": false },
+        { "id": 58, "title": "اتصالات جانبی", "link": "#", "type": false }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "کارت هدیه و گیفت کارت",
+      "image": "../public/images/header-category/13.svg",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 0,
+          "title": "همه محصولات کارت هدیه و گیفت کارت",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 1,
+          "title": "کارت هدیه فیزیکی دیجی کالا",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 2,
+          "title": "کارت هدیه براساس مناسبت",
+          "link": "#",
+          "type": true
+        },
+        { "id": 3, "title": "کارت هدیه تولد", "link": "#", "type": false },
+        { "id": 4, "title": "کارت هدیه روز مادر", "link": "#", "type": false },
+        { "id": 5, "title": "کارت هدیه روز معلم", "link": "#", "type": false },
+        { "id": 6, "title": "کارت هدیه سالگرد", "link": "#", "type": false },
+        { "id": 7, "title": "کارت هدیه تشکر", "link": "#", "type": false },
+        { "id": 8, "title": "کارت هدیه دوستی", "link": "#", "type": false },
+        { "id": 9, "title": "کارت هدیه ازدواج", "link": "#", "type": false },
+        { "id": 10, "title": "کارت هدیه نوزاد", "link": "#", "type": false },
+        { "id": 11, "title": "کارت هدیه خانه نو", "link": "#", "type": false },
+        {
+          "id": 12,
+          "title": "کارت هدیه فارغ التحصیلی",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 13,
+          "title": "کارت هدیه عید نوروز",
+          "link": "#",
+          "type": false
+        },
+        { "id": 14, "title": "کارت هدیه شب یلدا", "link": "#", "type": false },
+        {
+          "id": 15,
+          "title": "کارت هدیه براساس قیمت",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 16,
+          "title": "کارت هدیه تا 500 هزار تومان",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 17,
+          "title": "کارت هدیه از 500 هزار تا 2 میلیون تومان",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 18,
+          "title": "کارت هدیه از 2 تا 5 میلیون تومان",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 19,
+          "title": "کارت هدیه 5 میلیون تومانی",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 20,
+          "title": "کارت هدیه از 5 تا 10 میلیون تومان",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 21,
+          "title": "کارت هدیه از 10 تا 20 میلیون تومان",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 22,
+          "title": "کارت هدیه بیش از 20 میلیون تومان",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 23,
+          "title": "کارت هدیه الکترونیکی دیجی کالا",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 24,
+          "title": "کارت هدیه الکترونیکی براساس مناسبت",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 25,
+          "title": "کارت هدیه الکترونیکی تولد",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 26,
+          "title": "کارت هدیه الکترونیکی روز معلم",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 27,
+          "title": "کارت هدیه الکترونیکی سالگرد",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 28,
+          "title": "کارت هدیه الکترونیکی تشکر",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 29,
+          "title": "کارت هدیه الکترونیکی عذرخواهی",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 30,
+          "title": "کارت هدیه الکترونیکی دوستی",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 31,
+          "title": "کارت هدیه الکترونیکی نوزاد",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 32,
+          "title": "کارت هدیه الکترونیکی خانه نو",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 33,
+          "title": "کارت هدیه الکترونیکی فارغ التحصیلی",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 34,
+          "title": "کارت هدیه الکترونیکی عید نوروز",
+          "link": "#",
+          "type": false
+        },
+        { "id": 35, "title": "کارت هدیه سازمانی", "link": "#", "type": true },
+        {
+          "id": 36,
+          "title": "کارت هدیه مد و پوشاک",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 37,
+          "title": "کارت هدیه اکسسوری مد و پوشاک",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 38,
+          "title": "کارت هدیه دیجی استایل",
+          "link": "#",
+          "type": true
+        },
+        { "id": 39, "title": "کارت هدیه فیدیبو", "link": "#", "type": true },
+        {
+          "id": 40,
+          "title": "گیفت کارت اپلیکیشن و نرم افزار",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 41,
+          "title": "گیفت کارت پلتفرم‌های بازی",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 42,
+          "title": "گیفت کارت پرداخت‌های درون بازی",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 43,
+          "title": "گیفت کارت فروشگاه آنلاین",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 44,
+          "title": "گیفت کارت فیلم و سریال",
+          "link": "#",
+          "type": true
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "کالای خوراکی و اساسی",
+      "image": "../public/images/header-category/14.svg",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 0,
+          "title": "همه محصولات کالای خوراکی و اساسی",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 1,
+          "title": "کالاهای اساسی و خواربار",
+          "link": "#",
+          "type": true
+        },
+        { "id": 2, "title": "ماکارونی", "link": "#", "type": false },
+        { "id": 3, "title": "برنج", "link": "#", "type": false },
+        { "id": 4, "title": "نبات", "link": "#", "type": false },
+        { "id": 5, "title": "قند", "link": "#", "type": false },
+        { "id": 6, "title": "شکر", "link": "#", "type": false },
+        { "id": 7, "title": "رب گوجه", "link": "#", "type": false },
+        { "id": 8, "title": "رب انار", "link": "#", "type": false },
+        { "id": 9, "title": "روغن", "link": "#", "type": true },
+        { "id": 10, "title": "روغن مایع", "link": "#", "type": false },
+        {
+          "id": 11,
+          "title": "روغن جامد و نیمه جامد",
+          "link": "#",
+          "type": false
+        },
+        { "id": 12, "title": "روغن زیتون", "link": "#", "type": false },
+        { "id": 13, "title": "روغن ذرت", "link": "#", "type": false },
+        { "id": 14, "title": "روغن کنجد", "link": "#", "type": false },
+        { "id": 15, "title": "روغن حیوانی", "link": "#", "type": false },
+        { "id": 16, "title": "چای و دمنوش", "link": "#", "type": true },
+        { "id": 17, "title": "قهوه", "link": "#", "type": true },
+        { "id": 18, "title": "دانه قهوه", "link": "#", "type": false },
+        { "id": 19, "title": "قهوه فوری", "link": "#", "type": false },
+        { "id": 20, "title": "قهوه اسپرسو", "link": "#", "type": false },
+        {
+          "id": 21,
+          "title": "غذاهای آماده و نیمه آماده",
+          "link": "#",
+          "type": true
+        },
+        { "id": 22, "title": "تن ماهی", "link": "#", "type": false },
+        { "id": 23, "title": "نودل", "link": "#", "type": false },
+        {
+          "id": 24,
+          "title": "غذاهای آماده کنسروی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 25, "title": "حبوبات و سویا", "link": "#", "type": true },
+        { "id": 26, "title": "ادویه و افزودنی", "link": "#", "type": true },
+        { "id": 27, "title": "زعفران", "link": "#", "type": false },
+        { "id": 28, "title": "زرشک", "link": "#", "type": false },
+        { "id": 29, "title": "فلفل", "link": "#", "type": false },
+        { "id": 30, "title": "نمک", "link": "#", "type": false },
+        { "id": 31, "title": "هل", "link": "#", "type": false },
+        { "id": 32, "title": "زنجبیل", "link": "#", "type": false },
+        { "id": 33, "title": "زردچوبه", "link": "#", "type": false },
+        { "id": 34, "title": "صبحانه", "link": "#", "type": true },
+        { "id": 35, "title": "کره بادام زمینی", "link": "#", "type": false },
+        { "id": 36, "title": "شکلات صبحانه", "link": "#", "type": false },
+        { "id": 37, "title": "غلات صبحانه", "link": "#", "type": false },
+        { "id": 38, "title": "عسل", "link": "#", "type": false },
+        { "id": 39, "title": "نوشیدنی", "link": "#", "type": true },
+        { "id": 40, "title": "آب معدنی", "link": "#", "type": false },
+        { "id": 41, "title": "نوشابه", "link": "#", "type": false },
+        { "id": 42, "title": "ماء الشعیر", "link": "#", "type": false },
+        { "id": 43, "title": "انرژی زا", "link": "#", "type": false },
+        { "id": 44, "title": "شربت و آبمیوه", "link": "#", "type": false },
+        { "id": 45, "title": "ترشی و شور", "link": "#", "type": true },
+        { "id": 46, "title": "تنقلات", "link": "#", "type": true },
+        { "id": 47, "title": "چیپس", "link": "#", "type": false },
+        { "id": 48, "title": "پفک", "link": "#", "type": false },
+        { "id": 49, "title": "تخمه", "link": "#", "type": false },
+        { "id": 50, "title": "لواشک", "link": "#", "type": false },
+        { "id": 51, "title": "کیک و کلوچه", "link": "#", "type": false },
+        { "id": 52, "title": "شکلات", "link": "#", "type": false },
+        { "id": 53, "title": "پاستیل", "link": "#", "type": false },
+        { "id": 54, "title": "آدامس", "link": "#", "type": false },
+        { "id": 55, "title": "بیسکویت", "link": "#", "type": false },
+        { "id": 56, "title": "آجیل", "link": "#", "type": true },
+        { "id": 57, "title": "فندق", "link": "#", "type": false },
+        { "id": 58, "title": "پسته", "link": "#", "type": false },
+        { "id": 59, "title": "بادام درختی", "link": "#", "type": false },
+        { "id": 60, "title": "بادام هندی", "link": "#", "type": false },
+        { "id": 61, "title": "بادام زمینی", "link": "#", "type": false },
+        { "id": 62, "title": "انجیر", "link": "#", "type": false },
+        { "id": 63, "title": "شیرینی", "link": "#", "type": true },
+        {
+          "id": 64,
+          "title": "مواد پروتئینی و تخم مرغ",
+          "link": "#",
+          "type": true
+        },
+        { "id": 65, "title": "خاویار", "link": "#", "type": false },
+        { "id": 66, "title": "سوسیس", "link": "#", "type": false },
+        { "id": 67, "title": "میوه و سبزیجات", "link": "#", "type": true },
+        {
+          "id": 68,
+          "title": "بهداشت و نظافت خانگی",
+          "link": "#",
+          "type": true
+        },
+        {
+          "id": 69,
+          "title": "اسکاچ و سیم ظرفشویی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 70, "title": "دستکش نظافت", "link": "#", "type": false },
+        { "id": 71, "title": "مواد شوینده", "link": "#", "type": false },
+        { "id": 72, "title": "شوینده لباس", "link": "#", "type": false },
+        { "id": 73, "title": "شوینده ظروف", "link": "#", "type": false },
+        { "id": 74, "title": "شوینده سطوح", "link": "#", "type": false },
+        { "id": 75, "title": "مایع دستشویی", "link": "#", "type": false },
+        { "id": 76, "title": "شوینده فرش و مبل", "link": "#", "type": false },
+        {
+          "id": 77,
+          "title": "لوازم یکبار مصرف آشپزخانه",
+          "link": "#",
+          "type": false
+        },
+        { "id": 78, "title": "بهداشت و خوراک کودک", "link": "#", "type": true },
+        { "id": 79, "title": "غذای کودک", "link": "#", "type": false },
+        { "id": 90, "title": "پوشک کودک", "link": "#", "type": false },
+        {
+          "id": 91,
+          "title": "دهانشویه و خمیردندان کودک",
+          "link": "#",
+          "type": false
+        },
+        { "id": 92, "title": "مسواک کودک", "link": "#", "type": false },
+        { "id": 93, "title": "دستمال مرطوب کودک", "link": "#", "type": false },
+        {
+          "id": 94,
+          "title": "کرم،‌ بالم و لوسیون کودک",
+          "link": "#",
+          "type": false
+        },
+        { "id": 95, "title": "شامپو کودک", "link": "#", "type": false },
+        { "id": 96, "title": "شوینده لباس کودک", "link": "#", "type": false },
+        { "id": 97, "title": "بهداشت شخصی", "link": "#", "type": true }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "اسباب بازی، کودک و نوزاد",
+      "image": "../public/images/header-category/15.svg",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 0,
+          "title": "همه محصولات اسباب بازی، کودک و نوزاد",
+          "link": "#",
+          "type": true
+        },
+        { "id": 1, "title": "داغ ترین ها", "link": "#", "type": true },
+        { "id": 2, "title": "عروسک سالیوان", "link": "#", "type": false },
+        {
+          "id": 3,
+          "title": "بهداشت و حمام کودک و نوزاد",
+          "link": "#",
+          "type": true
+        },
+        { "id": 4, "title": "پوشک", "link": "#", "type": false },
+        { "id": 5, "title": "دستمال مرطوب", "link": "#", "type": false },
+        { "id": 6, "title": "حوله", "link": "#", "type": false },
+        { "id": 7, "title": "وان حمام نوزاد", "link": "#", "type": false },
+        { "id": 8, "title": "مینی واش", "link": "#", "type": false },
+        { "id": 9, "title": "شامپو کودک و نوزاد", "link": "#", "type": false },
+        {
+          "id": 10,
+          "title": "پوشاک و کفش کودک و نوزاد",
+          "link": "#",
+          "type": true
+        },
+        { "id": 11, "title": "لباس نوزادی", "link": "#", "type": false },
+        { "id": 12, "title": "کفش", "link": "#", "type": false },
+        {
+          "id": 13,
+          "title": "جوراب و پاپوش کودک و نوزاد",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 14,
+          "title": "کلاه و پیش بند نوزاد",
+          "link": "#",
+          "type": false
+        },
+        { "id": 15, "title": "پوشاک بچگانه", "link": "#", "type": true },
+        { "id": 16, "title": "پوشاک پسرانه", "link": "#", "type": false },
+        { "id": 17, "title": "لباس پسرانه", "link": "#", "type": false },
+        {
+          "id": 18,
+          "title": "لباس و کفش ورزشی پسرانه",
+          "link": "#",
+          "type": false
+        },
+        { "id": 19, "title": "کفش پسرانه", "link": "#", "type": false },
+        { "id": 20, "title": "کوله پشتی پسرانه", "link": "#", "type": false },
+        { "id": 21, "title": "لباس دخترانه", "link": "#", "type": false },
+        { "id": 22, "title": "کفش دخترانه", "link": "#", "type": false },
+        { "id": 23, "title": "کوله پشتی دخترانه", "link": "#", "type": false },
+        { "id": 24, "title": "تبلت", "link": "#", "type": true },
+        {
+          "id": 25,
+          "title": "پلی استیشن، ایکس باکس و بازی",
+          "link": "#",
+          "type": true
+        },
+        { "id": 26, "title": "اسباب بازی", "link": "#", "type": true },
+        { "id": 27, "title": "فکری و آموزشی", "link": "#", "type": false },
+        { "id": 28, "title": "پازل، لگو و ساختنی", "link": "#", "type": false },
+        { "id": 29, "title": "عروسک و فیگور", "link": "#", "type": false },
+        {
+          "id": 30,
+          "title": "اسپینر، ابزار شوخی و سرگرمی",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 31,
+          "title": "تفنگ، تیر و لوازم جنگی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 32, "title": "بازی و سرگرمی کودک", "link": "#", "type": true },
+        {
+          "id": 33,
+          "title": "ماشین بازی، موتور و سه چرخه",
+          "link": "#",
+          "type": false
+        },
+        { "id": 34, "title": "دوچرخه", "link": "#", "type": false },
+        {
+          "id": 35,
+          "title": "تشک بازی و پارک بازی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 36, "title": "تاب و سرسره", "link": "#", "type": false },
+        {
+          "id": 37,
+          "title": "سلامت، ایمنی و مراقبت",
+          "link": "#",
+          "type": true
+        },
+        { "id": 38, "title": "تصفیه هوا", "link": "#", "type": false },
+        { "id": 39, "title": "ترازو", "link": "#", "type": false },
+        {
+          "id": 40,
+          "title": "دوربین و پیجر اتاق کودک",
+          "link": "#",
+          "type": false
+        },
+        { "id": 41, "title": "تب سنج و دماسنج", "link": "#", "type": false },
+        {
+          "id": 42,
+          "title": "محافظ و ابزار ایمنی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 43, "title": "خواب کودک", "link": "#", "type": true },
+        { "id": 44, "title": "مبلمان اتاق کودک", "link": "#", "type": false },
+        { "id": 45, "title": "چراغ خواب کودک", "link": "#", "type": false },
+        { "id": 46, "title": "تشک کودک", "link": "#", "type": false },
+        { "id": 47, "title": "سرویس خواب", "link": "#", "type": false },
+        { "id": 48, "title": "پتو", "link": "#", "type": false },
+        { "id": 49, "title": "بالش شیردهی", "link": "#", "type": false },
+        { "id": 50, "title": "ملزومات گردش و سفر", "link": "#", "type": true },
+        { "id": 51, "title": "کالسکه و کریر", "link": "#", "type": false },
+        {
+          "id": 52,
+          "title": "صندلی خودرو کودک و نوزاد",
+          "link": "#",
+          "type": false
+        },
+        { "id": 53, "title": "ساک لوازم نوزاد", "link": "#", "type": false },
+        { "id": 54, "title": "ساک لوازم نوزاد", "link": "#", "type": false },
+        { "id": 55, "title": "آغوشی", "link": "#", "type": false },
+        { "id": 56, "title": "لوازم شخصی", "link": "#", "type": true },
+        { "id": 57, "title": "پستانک و ملزومات", "link": "#", "type": false },
+        { "id": 58, "title": "شیردوش", "link": "#", "type": false },
+        { "id": 59, "title": "شورت آموزشی", "link": "#", "type": false },
+        { "id": 60, "title": "غذا خوری", "link": "#", "type": true },
+        { "id": 61, "title": "صندلی غذاخوری", "link": "#", "type": false },
+        {
+          "id": 62,
+          "title": "شیشه شیر، سرلاک و داروخوری",
+          "link": "#",
+          "type": false
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "محصولات بومی و محلی",
+      "image": "../public/images/header-category/16.svg",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 0,
+          "title": "همه محصولات محصولات بومی و محلی",
+          "link": "#",
+          "type": true
+        },
+        { "id": 1, "title": "مواد غذایی ارگانیک", "link": "#", "type": true },
+        { "id": 2, "title": "خواروبار محلی", "link": "#", "type": true },
+        { "id": 3, "title": "برنج محلی", "link": "#", "type": false },
+        { "id": 4, "title": "روغن محلی", "link": "#", "type": false },
+        { "id": 5, "title": "صبحانه محلی", "link": "#", "type": true },
+        { "id": 6, "title": "عسل طبیعی", "link": "#", "type": false },
+        {
+          "id": 7,
+          "title": "حلوا شکری، ارده و کنجد سنتی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 8, "title": "کیک و شیرینی خانگی", "link": "#", "type": true },
+        { "id": 9, "title": "شیرینی خانگی", "link": "#", "type": false },
+        { "id": 10, "title": "کیک و کلوچه محلی", "link": "#", "type": false },
+        { "id": 11, "title": "تنقلات خانگی", "link": "#", "type": true },
+        {
+          "id": 12,
+          "title": "لواشک، برگه و آلوچه خانگی",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 13,
+          "title": "تخمه و مغز طعم‌دار محلی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 14, "title": "لبنیات سنتی", "link": "#", "type": true },
+        {
+          "id": 15,
+          "title": "کره گیاهی و حیوانی محلی",
+          "link": "#",
+          "type": false
+        },
+        { "id": 16, "title": "خشکبار و آجیل سنتی", "link": "#", "type": true },
+        { "id": 17, "title": "آجیل سنتی", "link": "#", "type": false },
+        { "id": 18, "title": "خرمای محلی", "link": "#", "type": false },
+        {
+          "id": 19,
+          "title": "غلات و حبوبات ارگانیک",
+          "link": "#",
+          "type": true
+        },
+        { "id": 20, "title": "غلات ارگانیک", "link": "#", "type": false },
+        {
+          "id": 21,
+          "title": "حبوبات و سویا ارگانیک",
+          "link": "#",
+          "type": false
+        },
+        {
+          "id": 22,
+          "title": "ادویه و چاشنی ارگانیک",
+          "link": "#",
+          "type": true
+        },
+        { "id": 23, "title": "ادویه‌های ارگانیک", "link": "#", "type": false },
+        {
+          "id": 24,
+          "title": "زعفران و زرشک ارگانیک",
+          "link": "#",
+          "type": false
+        },
+        { "id": 25, "title": "عطاری", "link": "#", "type": true },
+        { "id": 26, "title": "ترشیجات و شور خانگی", "link": "#", "type": true },
+        { "id": 27, "title": "دکوراتیو سنتی", "link": "#", "type": true },
+        {
+          "id": 28,
+          "title": "لوستر و چراغ آویز دست ساز",
+          "link": "#",
+          "type": false
+        },
+        { "id": 29, "title": "مجسمه دست ساز", "link": "#", "type": false },
+        { "id": 30, "title": "گلدان دست ساز", "link": "#", "type": false },
+        { "id": 31, "title": "تابلو سنتی", "link": "#", "type": false },
+        { "id": 32, "title": "ست هدیه سنتی", "link": "#", "type": false },
+        { "id": 33, "title": "ست هفت سین سنتی", "link": "#", "type": false },
+        { "id": 34, "title": "کاشی سنتی", "link": "#", "type": false },
+        { "id": 35, "title": "آینه سنتی", "link": "#", "type": false },
+        { "id": 36, "title": "محصولات بافتنی", "link": "#", "type": false },
+        { "id": 37, "title": "خانه و کاشانه", "link": "#", "type": true },
+        { "id": 38, "title": "نوشیدنی‌های ارگانیک", "link": "#", "type": true },
+        { "id": 39, "title": "چای ارگانیک ایرانی", "link": "#", "type": false },
+        { "id": 40, "title": "دمنوش گیاهی", "link": "#", "type": false },
+        { "id": 41, "title": "نوشیدنی‌های ارگانیک", "link": "#", "type": true },
+        {
+          "id": 42,
+          "title": "اکسسوری و زیورآلات دست ساز",
+          "link": "#",
+          "type": true
+        },
+        { "id": 43, "title": "پوشاک بومی و محلی", "link": "#", "type": true },
+        { "id": 44, "title": "قالی و قالیچه", "link": "#", "type": true },
+        { "id": 45, "title": "ظروف سنتی", "link": "#", "type": true },
+        { "id": 46, "title": "آجیل خوری سنتی", "link": "#", "type": false },
+        { "id": 47, "title": "دیس و سینی سنتی", "link": "#", "type": false },
+        { "id": 48, "title": "قندان سنتی", "link": "#", "type": false },
+        { "id": 49, "title": "بشقاب سنتی", "link": "#", "type": false },
+        { "id": 50, "title": "لیوان سنتی", "link": "#", "type": false },
+        { "id": 51, "title": "دیگ و قابلمه سنتی", "link": "#", "type": false },
+        { "id": 52, "title": "لوازم آشپزخانه سنتی", "link": "#", "type": true },
+        { "id": 53, "title": "سبد دستبافت", "link": "#", "type": false },
+        { "id": 54, "title": "هاون سنتی", "link": "#", "type": false },
+        { "id": 55, "title": "تخته سرو دست ساز", "link": "#", "type": false },
+        {
+          "id": 56,
+          "title": "رومیزی، رانر و زیربشقابی سنتی",
+          "link": "#",
+          "type": true
+        }
+      ]
+    }
+  ],
+  "poster": [
+    {
+      "id": 0,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/fc31aafec57532f15b06f4bc4b21531bdd2ef982_1749620757.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+      "id": 1,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/47d00e0fe5650b1171f632ec2fe140a247e4620c_1749620757.jpg?x-oss-process=image/quality,q_95/format,webp"
+    }
+  ],
+  "nav": [
+    { "id": 1, "title": "دسته‌بندی کالاها" },
+    { "id": 2, "title": "شگفت‌انگیزها" },
+    { "id": 3, "title": "سوپرمارکت" },
+    { "id": 4, "title": "طلای دیجیتال" },
+    { "id": 5, "title": "پرفروش‌ترین‌ها" },
+    { "id": 6, "title": "خرید کالای کارکرده" },
+    { "id": 7, "title": "سوالی دارید؟" },
+    { "id": 8, "title": "در دیجی‌کالا بفروشید!" },
+    {
+      "id": 9,
+      "title": "شهر خود را انتخاب کنید",
+      "alert": " برای مشاهده تخفیف‌ها و کالا‌های قابل ارسال، شهر را انتخاب کنید."
+    }
+  ],
+  "HeaderTop": [
+    {
+      "id": 0,
+      "title1": "جستجو",
+      "title2": "جستجو در",
+      "image1": "https://www.digikala.com/brand/full-horizontal.svg",
+      "image2": "https://www.digikala.com/brand/typography.svg",
+      "icon": "http://localhost:5173/public/images/search.svg"
+    },
+    {
+      "id": 1,
+      "title": "ورود | ثبت‌نام",
+      "icon1": "http://localhost:5173/public/images/register.svg",
+      "icon2": "http://localhost:5173/public/images/basket.svg"
+    }
+  ],
+  "slider1": [
+    {
+      "id": 0,
+      "link": "#",
+      "img": "/public/images/slider-1/1.jpg",
+      "title": "زندگی بدون این سخته ..."
+    },
+    {
+      "id": 1,
+      "link": "#",
+      "img": "/public/images/slider-1/2.jpg",
+      "title": "پاور بانک کوچولو"
+    },
+    {
+      "id": 2,
+      "link": "#",
+      "img": "/public/images/slider-1/3.jpg",
+      "title": "روش ساخت اپل آی دی"
+    },
+    {
+      "id": 3,
+      "link": "#",
+      "img": "/public/images/slider-1/4.jpg",
+      "title": "قمقمه سیلیکونی تاشوسفری"
+    },
+    {
+      "id": 4,
+      "link": "#",
+      "img": "/public/images/slider-1/5.jpg",
+      "title": "هدفونی که دارم چیه؟"
+    },
+    {
+      "id": 5,
+      "link": "#",
+      "img": "/public/images/slider-1/6.jpg",
+      "title": "پاوربانکی که گوشست رو شارژ نمیکنه"
+    },
+    {
+      "id": 6,
+      "link": "#",
+      "img": "/public/images/slider-1/7.jpg",
+      "title": "بررسی دستبند شیائومی miband 8 pro Review"
+    },
+    {
+      "id": 7,
+      "link": "#",
+      "img": "/public/images/slider-1/8.jpg",
+      "title": "آچار فرانسه ایران پتک"
+    },
+    {
+      "id": 8,
+      "link": "#",
+      "img": "/public/images/slider-1/9.jpg",
+      "title": "افزاینده فشار آب حموم"
+    },
+    {
+      "id": 9,
+      "link": "#",
+      "img": "/public/images/slider-1/10.jpg",
+      "title": "انبر لغزشی دلی"
+    },
+    {
+      "id": 10,
+      "link": "#",
+      "img": "/public/images/slider-1/11.jpg",
+      "title": "قشم با Sony a6700"
+    },
+    {
+      "id": 11,
+      "link": "#",
+      "img": "/public/images/slider-1/12.jpg",
+      "title": "کارواش شارژی"
+    },
+    {
+      "id": 12,
+      "link": "#",
+      "img": "/public/images/slider-1/13.jpg",
+      "title": "بهتر از منچ و تخته"
+    },
+    {
+      "id": 13,
+      "link": "#",
+      "img": "/public/images/slider-1/14.jpg",
+      "title": "آخه ۱۵ میلیون پنکه کی میخره؟"
+    },
+    {
+      "id": 14,
+      "link": "#",
+      "img": "/public/images/slider-1/15.jpg",
+      "title": "بهترین گوشی دکمه‌ای"
+    },
+    {
+      "id": 15,
+      "link": "#",
+      "img": "/public/images/slider-1/16.jpg",
+      "title": "همون شاهکار قدیمی ولی 20000mAh"
+    },
+    {
+      "id": 16,
+      "link": "#",
+      "img": "/public/images/slider-1/17.jpg",
+      "title": "کیک،اما نه یه کیک معمولی"
+    },
+    {
+      "id": 17,
+      "link": "#",
+      "img": "/public/images/slider-1/18.jpg",
+      "title": "حواست به باتری لپ‌تاپ باشه"
+    },
+    {
+      "id": 18,
+      "link": "#",
+      "img": "/public/images/slider-1/19.jpg",
+      "title": "تبدیل دریل به پمپ آب"
+    },
+    {
+      "id": 19,
+      "link": "#",
+      "img": "/public/images/slider-1/20.jpg",
+      "title": "پنجشنبه‌شب چی‌کاره‌ای؟"
+    }
+  ],
+  "slider2": [
+    {
+      "id": 0,
+      "link": "#",
+      "img": "/public/images/slider-2/1.gif"
+    },
+    {
+      "id": 1,
+      "link": "#",
+      "img": "/public//images/slider-2/2.webp"
+    },
+    {
+      "id": 2,
+      "link": "#",
+      "img": "/public//images/slider-2/3.webp"
+    },
+    {
+      "id": 3,
+      "link": "#",
+      "img": "/public//images/slider-2/4.webp"
+    },
+    {
+      "id": 4,
+      "link": "#",
+      "img": "/public//images/slider-2/5.webp"
+    },
+    {
+      "id": 5,
+      "link": "#",
+      "img": "/public//images/slider-2/6.webp"
+    },
+    {
+      "id": 6,
+      "link": "#",
+      "img": "/public//images/slider-2/7.webp"
+    },
+    {
+      "id": 7,
+      "link": "#",
+      "img": "/public//images/slider-2/8.webp"
+    }
+  ],
+  "more": [
+    {
+      "id": 0,
+      "link": "#",
+      "title": "طلای دیجیتال",
+      "img": "/public/images/more/1.png"
+    },
+    {
+      "id": 1,
+      "link": "#",
+      "title": "۴ قسطه",
+      "img": "/public/images/more/2.png"
+    },
+    {
+      "id": 2,
+      "link": "#",
+      "title": "ارسال فوری فروشنده",
+      "img": "/public/images/more/3.png"
+    },
+    {
+      "id": 3,
+      "link": "#",
+      "title": "تخفیف موبایل‌کارکرده",
+      "img": "/public/images/more/4.png"
+    },
+    {
+      "id": 4,
+      "link": "#",
+      "title": "بیشترین‌تخفیف طلای‌فیزیکی",
+      "img": "/public/images/more/5.png"
+    },
+    {
+      "id": 5,
+      "link": "#",
+      "title": "خرید خودرو",
+      "img": "/public/images/more/6.png"
+    },
+    {
+      "id": 6,
+      "link": "#",
+      "title": "پرتخفیف‌های لوازم‌خانه",
+      "img": "/public/images/more/7.png"
+    },
+    {
+      "id": 7,
+      "link": "#",
+      "title": "شگفت فروشگاه‌حضوری",
+      "img": "/public/images/more/8.png"
+    },
+
+    {
+      "id": 8,
+      "link": "#",
+      "title": "تخفیف بومی‌محلی",
+      "img": "/public/images/more/9.png"
+    },
+    {
+      "id": 9,
+      "link": "#",
+      "title": "بیشتر",
+      "img": "/public/images/more/10.png"
+    }
+  ],
+  "amazing": [
+    {
+      "id": 0,
+      "link": "#",
+      "img": "/public/images/amazing/a-1.png",
+      "img2": "/public/images/amazing/a-2.png",
+      "time": "11:35:30",
+      "see": "مشاهده همه"
+    },
+    {
+      "id": 1,
+      "img": "/public/images/amazing/1.webp",
+      "body": "مايع ظرفشويی پريل مدل ليمويی وزن 3750 گرم",
+      "price": "۲۹۵,۰۰۰",
+      "old": "۳۴۶,۰۰۰",
+      "off": "۱۵%",
+      "toman": "/public/images/amazing/toman.svg"
+    },
+    {
+      "id": 2,
+      "img": "/public/images/amazing/2.webp",
+      "body": "مایع سفیدکننده غلیظ سطوح دامستوس مدل Snow White حجم 750 میلی لیتر",
+      "price": "۷۶,۰۰۰",
+      "old": "۸۹,۰۰۰",
+      "off": "۱۵%",
+      "toman": "/public/images/amazing/toman.svg"
+    },
+    {
+      "id": 3,
+      "img": "/public/images/amazing/3.webp",
+      "body": "دستمال حوله ای فول تایم مدل رولی بسته 4 عددی ",
+      "price": "۱۰۳,۰۰۰",
+      "old": "۱۲۵,۰۰۰",
+      "off": "۱۸%",
+      "toman": "/public/images/amazing/toman.svg"
+    },
+    {
+      "id": 4,
+      "img": "/public/images/amazing/4.webp",
+      "body": "دستمال توالت فول تایم مدل رولی بسته 24 عددی",
+      "price": "۴۶۹,۰۰۰",
+      "old": "۵۵۱,۴۰۰",
+      "off": "۱۵%",
+      "toman": "/public/images/amazing/toman.svg"
+    },
+    {
+      "id": 5,
+      "img": "/public/images/amazing/5.webp",
+      "body": "دستمال کاغذی 100 برگ بی تا مدل White بسته 10 عددی",
+      "price": "۲۸۱,۰۰۰",
+      "old": "۳۳۰,۳۰۰",
+      "off": "۱۵%",
+      "toman": "/public/images/amazing/toman.svg"
+    },
+    {
+      "id": 6,
+      "img": "/public/images/amazing/6.webp",
+      "body": "بیسکویت سبوسدار ویتانا - 65 گرم بسته 24 عددی ",
+      "price": "۱۳۸,۰۰۰",
+      "old": "۲۳۷,۶۰۰",
+      "off": "۴۲%",
+      "toman": "/public/images/amazing/toman.svg"
+    },
+    {
+      "id": 7,
+      "img": "/public/images/amazing/7.webp",
+      "body": "پوشک کودک مولفیکس مدل چسبی سایز 4 بسته 34 عددی",
+      "price": "۲۶۴,۰۰۰",
+      "old": "۳۱۰,۰۰۰",
+      "off": "۱۵%",
+      "toman": "/public/images/amazing/toman.svg"
+    },
+    {
+      "id": 8,
+      "img": "/public/images/amazing/8.webp",
+      "body": "همبرگر ممتاز 95 درصد مهیا پروتئین - 400 گرم",
+      "price": "۱۷۲,۰۰۰",
+      "old": "۲۱۵,۰۰۰",
+      "off": "۲۰%",
+      "toman": "/public/images/amazing/toman.svg"
+    }
+  ],
+  "best1": [
+    { "id": 0, "link": "#", "img": "/public/images/best/1.gif" },
+    { "id": 1, "link": "#", "img": "/public/images/best/2.webp" },
+    { "id": 2, "link": "#", "img": "/public/images/best/3.webp" },
+    { "id": 3, "link": "#", "img": "/public/images/best/4.webp" }
+  ],
+  "best2": [
+    { "id": 0, "link": "#", "img": "/public/images/best/5.webp" },
+    { "id": 1, "link": "#", "img": "/public/images/best/6.webp" },
+    { "id": 2, "link": "#", "img": "/public/images/best/7.webp" },
+    { "id": 3, "link": "#", "img": "/public/images/best/8.webp" }
+  ],
+  "best3": [
+    { "id": 0, "link": "#", "img": "/public/images/best/9.webp" },
+    { "id": 1, "link": "#", "img": "/public/images/best/10.webp" }
+  ],
+  "super1": [
+    { "id": 0, "link": "#", "img": "/public/images/super-market/01.png" }
+  ],
+  "super2": [
+    {
+      "id": 0,
+      "link": "#",
+      "img": "/public/images/super-market/11.webp",
+      "img2": "/public/images/super-market/12.svg",
+      "title": "تا ۴۵٪ تخفیف"
+    },
+    {
+      "id": 1,
+      "dropdown": [
+        {
+          "id": 0,
+          "link": "#",
+          "img": "/public/images/super-market/21.webp",
+          "off": "۱۵%"
+        },
+        {
+          "id": 1,
+          "link": "#",
+          "img": "/public/images/super-market/22.webp",
+          "off": "۴۰%"
+        },
+        {
+          "id": 2,
+          "link": "#",
+          "img": "/public/images/super-market/23.webp",
+          "off": "۲۰%"
+        },
+        {
+          "id": 3,
+          "link": "#",
+          "img": "/public/images/super-market/24.webp",
+          "off": "۴۰%"
+        },
+        {
+          "id": 4,
+          "link": "#",
+          "img": "/public/images/super-market/25.webp",
+          "off": "۱۸%"
+        },
+        {
+          "id": 5,
+          "link": "#",
+          "img": "/public/images/super-market/26.webp",
+          "off": "۴۲%"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "بیش از ۱۰۰ کالا"
+    }
+  ],
+  "slider3": [
+    { "id": 0, "title": "خرید بر اساس دسته‌بندی" },
+    {
+      "id": 1,
+      "dropdown": [
+        {
+          "id": 0,
+          "link": "#",
+          "title": "موبایل",
+          "img": "/public/images/slider-3/1.jpg"
+        },
+        {
+          "id": 1,
+          "link": "#",
+          "title": "طلا و نقره",
+          "img": "/public/images/slider-3/2.jpg"
+        },
+        {
+          "id": 2,
+          "link": "#",
+          "title": "لپ تاپ",
+          "img": "/public/images/slider-3/3.jpg"
+        },
+        {
+          "id": 3,
+          "link": "#",
+          "title": "تجهیزات پزشکی و سلامت",
+          "img": "/public/images/slider-3/4.jpg"
+        },
+        {
+          "id": 4,
+          "link": "#",
+          "title": "کالای دیجیتال",
+          "img": "/public/images/slider-3/5.jpg"
+        },
+        {
+          "id": 5,
+          "link": "#",
+          "title": "کتاب، لوازم تحریر و هنر",
+          "img": "/public/images/slider-3/6.jpg"
+        },
+        {
+          "id": 6,
+          "link": "#",
+          "title": "خانه و آشپزخانه",
+          "img": "/public/images/slider-3/7.jpg"
+        },
+        {
+          "id": 7,
+          "link": "#",
+          "title": "کتاب، لوازم تحریر و هنر",
+          "img": "/public/images/slider-3/8.jpg"
+        },
+        {
+          "id": 8,
+          "link": "#",
+          "title": "لوازم خانگی برقی",
+          "img": "/public/images/slider-3/9.jpg"
+        },
+        {
+          "id": 9,
+          "link": "#",
+          "title": "کارت هدیه و گیفت کارت",
+          "img": "/public/images/slider-3/10.jpg"
+        },
+        {
+          "id": 10,
+          "link": "#",
+          "title": "آرایشی بهداشتی",
+          "img": "/public/images/slider-3/11.jpg"
+        },
+        {
+          "id": 11,
+          "link": "#",
+          "title": "سوپر مارکت آنلاین",
+          "img": "/public/images/slider-3/12.jpg"
+        },
+        {
+          "id": 12,
+          "link": "#",
+          "title": "خودرو و موتورسیکلت",
+          "img": "/public/images/slider-3/13.jpg"
+        },
+        {
+          "id": 13,
+          "link": "#",
+          "title": "اسباب بازی، کودک و نوزاد",
+          "img": "/public/images/slider-3/14.jpg"
+        },
+        {
+          "id": 14,
+          "link": "#",
+          "title": "ابزار آلات و تجهیزات",
+          "img": "/public/images/slider-3/15.jpg"
+        },
+        {
+          "id": 15,
+          "link": "#",
+          "title": "محصولات بومی و محلی",
+          "img": "/public/images/slider-3/16.jpg"
+        },
+        {
+          "id": 16,
+          "link": "#",
+          "title": "مد و پوشاک",
+          "img": "/public/images/slider-3/17.jpg"
+        },
+        {
+          "id": 17,
+          "link": "#",
+          "title": "کالای کارکرده",
+          "img": "/public/images/slider-3/18.jpg"
+        }
+      ]
+    }
+  ],
+  "brands": [
+    { "id": 0, "title": "محبوب‌ترین برندها" },
+    {
+      "id": 1,
+      "dropdown": [
+        { "id": 0, "link": "#", "img": "/public/images/brands/1.png" },
+        { "id": 1, "link": "#", "img": "/public/images/brands/2.png" },
+        { "id": 2, "link": "#", "img": "/public/images/brands/3.png" },
+        { "id": 3, "link": "#", "img": "/public/images/brands/4.png" },
+        { "id": 4, "link": "#", "img": "/public/images/brands/5.png" },
+        { "id": 5, "link": "#", "img": "/public/images/brands/6.png" },
+        { "id": 6, "link": "#", "img": "/public/images/brands/7.png" },
+        { "id": 7, "link": "#", "img": "/public/images/brands/8.png" },
+        { "id": 8, "link": "#", "img": "/public/images/brands/9.png" },
+        { "id": 9, "link": "#", "img": "/public/images/brands/10.png" },
+        { "id": 10, "link": "#", "img": "/public/images/brands/11.png" },
+        { "id": 11, "link": "#", "img": "/public/images/brands/12.png" },
+        { "id": 12, "link": "#", "img": "/public/images/brands/13.png" },
+        { "id": 13, "link": "#", "img": "/public/images/brands/14.png" },
+        { "id": 14, "link": "#", "img": "/public/images/brands/15.png" },
+        { "id": 15, "link": "#", "img": "/public/images/brands/16.png" },
+        { "id": 16, "link": "#", "img": "/public/images/brands/17.png" },
+        { "id": 17, "link": "#", "img": "/public/images/brands/18.png" },
+        { "id": 18, "link": "#", "img": "/public/images/brands/19.png" },
+        { "id": 19, "link": "#", "img": "/public/images/brands/20.png" }
+      ]
+    }
+  ],
+  "taste1": [
+    {
+      "title": "گوشی موبایل",
+      "title2": "بر اساس سلیقه شما",
+      "link": "#",
+      "see": "مشاهده",
+      "images": [
+        { "id": 0, "img": "/public/images/taste-1/1.jpg" },
+        { "id": 1, "img": "/public/images/taste-1/2.jpg" },
+        { "id": 2, "img": "/public/images/taste-1/3.jpg" },
+        { "id": 3, "img": "/public/images/taste-1/4.jpg" }
+      ]
+    },
+    {
+      "title": "هدفون، هدست و هندزفری",
+      "title2": "بر اساس سلیقه شما",
+      "link": "#",
+      "see": "مشاهده",
+      "images": [
+        { "id": 0, "img": "/public/images/taste-1/5.jpg" },
+        { "id": 1, "img": "/public/images/taste-1/6.jpg" },
+        { "id": 2, "img": "/public/images/taste-1/7.jpg" },
+        { "id": 3, "img": "/public/images/taste-1/8.jpg" }
+      ]
+    },
+    {
+      "title": "کیف و کاور گوشی",
+      "title2": "بر اساس سلیقه شما",
+      "link": "#",
+      "see": "مشاهده",
+      "images": [
+        { "id": 0, "img": "/public/images/taste-1/9.jpg" },
+        { "id": 1, "img": "/public/images/taste-1/10.jpg" },
+        { "id": 2, "img": "/public/images/taste-1/11.jpg" },
+        { "id": 3, "img": "/public/images/taste-1/12.jpg" }
+      ]
+    },
+    {
+      "title": "ساعت عقربه ای مردانه",
+      "title2": "بر اساس سلیقه شما",
+      "link": "#",
+      "see": "مشاهده",
+      "images": [
+        { "id": 0, "img": "/public/images/taste-1/13.jpg" },
+        { "id": 1, "img": "/public/images/taste-1/14.jpg" },
+        { "id": 2, "img": "/public/images/taste-1/15.jpg" },
+        { "id": 3, "img": "/public/images/taste-1/16.jpg" }
+      ]
+    }
+  ],
+  "taste2": [
+    {
+      "title": "جوراب مردانه",
+      "title2": "بر اساس سلیقه شما",
+      "link": "#",
+      "see": "مشاهده",
+      "images": [
+        { "id": 0, "img": "/public/images/taste-2/1.jpg" },
+        { "id": 1, "img": "/public/images/taste-2/2.jpg" },
+        { "id": 2, "img": "/public/images/taste-2/3.jpg" },
+        { "id": 3, "img": "/public/images/taste-2/4.jpg" }
+      ]
+    },
+    {
+      "title": "لپ تاپ و الترابوک",
+      "title2": "بر اساس سلیقه شما",
+      "link": "#",
+      "see": "مشاهده",
+      "images": [
+        { "id": 0, "img": "/public/images/taste-2/5.jpg" },
+        { "id": 1, "img": "/public/images/taste-2/6.jpg" },
+        { "id": 2, "img": "/public/images/taste-2/7.jpg" },
+        { "id": 3, "img": "/public/images/taste-2/8.jpg" }
+      ]
+    },
+    {
+      "title": "ساعت هوشمند",
+      "title2": "بر اساس سلیقه شما",
+      "link": "#",
+      "see": "مشاهده",
+      "images": [
+        { "id": 0, "img": "/public/images/taste-2/9.jpg" },
+        { "id": 1, "img": "/public/images/taste-2/10.jpg" },
+        { "id": 2, "img": "/public/images/taste-2/11.jpg" },
+        { "id": 3, "img": "/public/images/taste-2/12.jpg" }
+      ]
+    },
+    {
+      "title": "کرم ضد آفتاب",
+      "title2": "بر اساس سلیقه شما",
+      "link": "#",
+      "see": "مشاهده",
+      "images": [
+        { "id": 0, "img": "/public/images/taste-2/13.jpg" },
+        { "id": 1, "img": "/public/images/taste-2/14.jpg" },
+        { "id": 2, "img": "/public/images/taste-2/15.jpg" },
+        { "id": 3, "img": "/public/images/taste-2/16.jpg" }
+      ]
+    }
+  ],
+  "sell": [
+    {
+      "id": 0,
+      "link": "#",
+      "title": "پرفروش‌ترین کالاها",
+      "all": "مشاهده همه"
+    },
+    {
+      "id": 1,
+      "link": "#",
+      "img": "/public/images/best-selling/1.webp",
+      "title": "هل سبز مصطفوی - 10 گرم"
+    },
+    {
+      "id": 2,
+      "link": "#",
+      "img": "/public/images/best-selling/2.webp",
+      "title": "روغن آفتابگردان طبیعت - 1.5 لیتر"
+    },
+    {
+      "id": 3,
+      "link": "#",
+      "img": "/public/images/best-selling/3.webp",
+      "title": "روغن آفتابگردان غنی شده با ویتامین D3 طبیعت - 900 میلی لیتر"
+    },
+    {
+      "id": 4,
+      "link": "#",
+      "img": "/public/images/best-selling/4.webp",
+      "title": "شکر سفید الماس دانه - 1 کیلوگرم"
+    },
+    {
+      "id": 5,
+      "link": "#",
+      "img": "/public/images/best-selling/5.webp",
+      "title": "کنسرو ماهی تون چین چین - 180 گرم"
+    },
+    {
+      "id": 6,
+      "link": "#",
+      "img": "/public/images/best-selling/6.webp",
+      "title": "پودر لباسشویی دستی گلرنگ - 500 گرم "
+    },
+    {
+      "id": 7,
+      "link": "#",
+      "img": "/public/images/best-selling/7.webp",
+      "title": "کرم ضدآفتاب و ضدلک بی‌رنگ لافارر مدل SPF50، مناسب پوست‌های چرب، حجم 40 میلی‌لیتر"
+    },
+    {
+      "id": 8,
+      "link": "#",
+      "img": "/public/images/best-selling/8.webp",
+      "title": "روغن مایع آفتابگردان ساعی - 810 گرم"
+    },
+    {
+      "id": 9,
+      "link": "#",
+      "img": "/public/images/best-selling/9.webp",
+      "title": "روغن سرخ کردنی کم جذب ساعی - 1620 گرم"
+    },
+    {
+      "id": 10,
+      "link": "#",
+      "img": "/public/images/best-selling/10.webp",
+      "title": "روغن سرخ کردنی بدون پالم شفاف ساعی - 1620 گرم"
+    },
+    {
+      "id": 11,
+      "link": "#",
+      "img": "/public/images/best-selling/11.webp",
+      "title": "روغن سرخ کردنی بدون پالم اویلا - 2 لیتر "
+    },
+    {
+      "id": 12,
+      "link": "#",
+      "img": "/public/images/best-selling/12.webp",
+      "title": "آب آشامیدنی نستله سری پیور لایف - 1.5 لیتر بسته 6 عددی"
+    },
+    {
+      "id": 13,
+      "link": "#",
+      "img": "/public/images/best-selling/13.webp",
+      "title": "مایع لباسشویی سرخابی اکتیو 2500 گرم"
+    },
+    {
+      "id": 14,
+      "link": "#",
+      "img": "/public/images/best-selling/14.jpg",
+      "title": "گوشی موبایل شیائومی مدل Redmi Note 14 4G دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت"
+    },
+    {
+      "id": 15,
+      "link": "#",
+      "img": "/public/images/best-selling/15.webp",
+      "title": "کمپوت آناناس حلقه شده پیک - 565 گرم"
+    },
+    {
+      "id": 16,
+      "link": "#",
+      "img": "/public/images/best-selling/16.webp",
+      "title": "رب گوجه فرنگی چین چین - 800 گرم"
+    },
+    {
+      "id": 17,
+      "link": "#",
+      "img": "/public/images/best-selling/17.webp",
+      "title": "روغن مخصوص سرخ کردنی بهار - 810 گرم"
+    },
+    {
+      "id": 18,
+      "link": "#",
+      "img": "/public/images/best-selling/18.webp",
+      "title": "شکر سفید گلشکر - 1 کیلوگرم"
+    }
+  ],
+  "hot": [
+    {
+      "id": 0,
+      "link": "#",
+      "title": "داغ ترین چند ساعت گذشته",
+      "all": "مشاهده همه"
+    },
+    {
+      "id": 1,
+      "link": "#",
+      "img": "/public/images/hot/1.webp",
+      "title": "ساعت هوشمند ورنا مدل 01 Ultra Pack به همراه هندزفری"
+    },
+    {
+      "id": 2,
+      "link": "#",
+      "img": "/public/images/hot/2.webp",
+      "title": "ماکت ماشین ناب سل مدل مرسدس بنز فلزی موزیکال amg 300 به همراه جاسوییچی"
+    },
+    {
+      "id": 3,
+      "link": "#",
+      "img": "/public/images/hot/3.webp",
+      "title": "ماساژور برقی رومئو مدل RM-8787"
+    },
+    {
+      "id": 4,
+      "link": "#",
+      "img": "/public/images/hot/4.webp",
+      "title": "ساچمه نقره آذر نقره مدل Ag-10"
+    },
+    {
+      "id": 5,
+      "link": "#",
+      "img": "/public/images/hot/5.webp",
+      "title": "اسپرسوساز مباشی مدل ECM2015"
+    },
+    {
+      "id": 6,
+      "link": "#",
+      "img": "/public/images/hot/6.webp",
+      "title": "گهواره برقی نوزاد کیکابو مدل bee moove"
+    },
+    {
+      "id": 7,
+      "link": "#",
+      "img": "/public/images/hot/7.webp",
+      "title": "آچار بکس اینتیمکث کد 218PCS مجموعه 218 عددی"
+    },
+    {
+      "id": 8,
+      "link": "#",
+      "img": "/public/images/hot/8.webp",
+      "title": "ماکت ماشین ولی مدل MERCEDES BENZ G CLASS WAGON"
+    },
+    {
+      "id": 9,
+      "link": "#",
+      "img": "/public/images/hot/9.webp",
+      "title": "دسته بازی تسکو مدل TG 133W"
+    },
+    {
+      "id": 10,
+      "link": "#",
+      "img": "/public/images/hot/10.webp",
+      "title": "لوستر ام کی ای لایتینگ مدل مدرن کد Ringo-s-gy60"
+    },
+    {
+      "id": 11,
+      "link": "#",
+      "img": "/public/images/hot/11.webp",
+      "title": "ماشین لباسشویی 8 کیلوگرم اتوماتیک اسنوا مدل SWM-A81S"
+    },
+    {
+      "id": 12,
+      "link": "#",
+      "img": "/public/images/hot/12.webp",
+      "title": "ست سرهمی و کلاه نوزادی فیورلا مدل 58"
+    },
+    {
+      "id": 13,
+      "link": "#",
+      "img": "/public/images/hot/13.webp",
+      "title": "روغن موتور اسپیدی مدل سوپر پلاتینیوم 0W-20 حجم 5 لیتر"
+    },
+    {
+      "id": 14,
+      "link": "#",
+      "img": "/public/images/hot/14.webp",
+      "title": "شورت مردانه کولسی مدل p123"
+    },
+    {
+      "id": 15,
+      "link": "#",
+      "img": "/public/images/hot/15.webp",
+      "title": "گوشی موبایل سامسونگ مدل Galaxy A15 دو سیم کارت ظرفیت 256 گیگابایت و رم 8 گیگابایت - ویتنام"
+    }
+  ],
+  "discount": [
+    { "id": 0, "title": "منتخب محصولات تخفیف و حراج" },
+    {
+      "id": 1,
+      "img": "/public/images/discount/1.webp",
+      "discount": "۸۹٪",
+      "price": "۲۴,۹۰۰",
+      "old": "۲۳۶,۰۰۰"
+    },
+    {
+      "id": 2,
+      "img": "/public/images/discount/2.webp",
+      "discount": "۸۵٪",
+      "price": "۱۹۵,۰۰۰",
+      "old": "۱,۳۰۰,۰۰۰"
+    },
+    {
+      "id": 3,
+      "img": "/public/images/discount/3.webp",
+      "discount": "۸۵٪",
+      "price": "۱۴۹,۸۵۰",
+      "old": "۹۹۹,۰۰۰"
+    },
+    {
+      "id": 4,
+      "img": "/public/images/discount/4.webp",
+      "discount": "۸۲٪",
+      "price": "۱۰۰,۸۶۰",
+      "old": "۵۷۱,۱۰۰"
+    },
+    {
+      "id": 5,
+      "img": "/public/images/discount/5.webp",
+      "discount": "۱۱٪",
+      "price": "۴۴,۳۹۹,۰۰۰",
+      "old": "۵۰,۰۰۰,۰۰۰"
+    },
+    {
+      "id": 6,
+      "img": "/public/images/discount/6.webp",
+      "discount": "۱٪",
+      "price": "۴,۹۴۹,۰۰۰",
+      "old": "۴,۹۹۹,۰۰۰"
+    },
+    {
+      "id": 7,
+      "img": "/public/images/discount/7.webp",
+      "discount": "۹٪",
+      "price": "۷۰۹,۸۰۰",
+      "old": "۷۸۰,۰۰۰"
+    },
+    {
+      "id": 8,
+      "img": "/public/images/discount/8.webp",
+      "discount": "۹٪",
+      "price": "۶۶۹,۰۰۰",
+      "old": "۷۳۵,۰۰۰"
+    },
+    {
+      "id": 9,
+      "img": "/public/images/discount/9.webp",
+      "discount": "۵۳٪",
+      "price": "۲۵۹,۷۰۰",
+      "old": "۵۵۰,۰۰۰"
+    },
+    {
+      "id": 10,
+      "img": "/public/images/discount/10.webp",
+      "discount": "۸۹٪",
+      "price": "۳۶۸,۰۰۰",
+      "old": "۳,۵۰۰,۰۰۰"
+    },
+    {
+      "id": 11,
+      "img": "/public/images/discount/11.webp",
+      "discount": "۸۹٪",
+      "price": "۴۷۰,۰۰۰",
+      "old": "۴,۳۸۰,۰۰۰"
+    },
+    {
+      "id": 12,
+      "img": "/public/images/discount/12.webp",
+      "discount": "۸۹٪",
+      "price": "۳۷۰,۰۰۰",
+      "old": "۳,۳۵۰,۰۰۰"
+    },
+    {
+      "id": 13,
+      "img": "/public/images/discount/13.webp",
+      "discount": "۸۹٪",
+      "price": "۴۹۵,۰۰۰",
+      "old": "۴,۵۰۰,۰۰۰"
+    },
+    {
+      "id": 14,
+      "img": "/public/images/discount/14.webp",
+      "discount": "۸۵٪",
+      "price": "۴۹۹,۰۰۰",
+      "old": "۳,۳۰۰,۰۰۰"
+    },
+    {
+      "id": 15,
+      "img": "/public/images/discount/15.webp",
+      "discount": "۸۴٪",
+      "price": "۳۹۹,۰۰۰",
+      "old": "۲,۵۰۰,۰۰۰"
+    },
+    {
+      "id": 16,
+      "img": "/public/images/discount/16.webp",
+      "discount": "۱٪",
+      "price": "۹,۷۵۰,۰۰۰",
+      "old": "۹,۷۷۰,۰۰۰"
+    },
+    {
+      "id": 17,
+      "img": "/public/images/discount/17.webp",
+      "discount": "۳۰٪",
+      "price": "۲۰,۹۹۰,۰۰۰",
+      "old": "۳۰,۰۰۰,۰۰۰"
+    },
+    {
+      "id": 18,
+      "img": "/public/images/discount/18.webp",
+      "discount": "۲۹٪",
+      "price": "۳۳,۲۱۷,۵۰۰",
+      "old": "۴۶,۵۰۰,۰۰۰"
+    }
+  ],
+  "reading": [
+    {
+      "id": 0,
+      "link": "#",
+      "title1": "خواندنی‌ها",
+      "title2": "مطالب بیشتر در دیجی‌کالا مگ"
+    },
+    {
+      "id": 1,
+      "link": "#",
+      "img": "/public/images/reading/1.webp",
+      "title": "ضعف پا کمبود کدام ویتامین است؟ ۷ ماده‌ی مغذی که باید بشناسید"
+    },
+    {
+      "id": 2,
+      "link": "#",
+      "img": "/public/images/reading/2.webp",
+      "title": "بهترین کولر گازی ۳۰۰۰۰ موجود در بازار کدام است؟"
+    },
+    {
+      "id": 3,
+      "link": "#",
+      "img": "/public/images/reading/3.webp",
+      "title": "۷ توصیه روانشناسی برای بازگشت به زندگی عادی"
+    },
+    {
+      "id": 4,
+      "link": "#",
+      "img": "/public/images/reading/4.webp",
+      "title": "تفاوت اینترنت ملی و بین‌المللی چیست؟"
+    }
+  ],
+  "footer1": [
+    {
+      "id": 0,
+      "logo": "/public/images/footer/1.svg",
+      "backToTopText": "بازگشت به بالا",
+      "backToTopLink": "#"
+    }
+  ],
+  "footer2": [
+    {
+      "supportPhone1": "تلفن پشتیبانی ۶۱۹۳۰۰۰۰ - ۰۲۱",
+      "supportPhone2": "۰۲۱-۹۱۰۰۰۱۰۰",
+      "supportText": "۷ روز هفته، ۲۴ ساعته پاسخگوی شما هستیم"
+    }
+  ],
+  "footer3": [
+    {
+      "img": "/public/images/footer/z1.svg",
+      "text": "اﻣﮑﺎن ﺗﺤﻮﯾﻞ اﮐﺴﭙﺮس",
+      "link": "#"
+    },
+    {
+      "img": "/public/images/footer/z2.svg",
+      "text": "امکان پرداخت در محل",
+      "link": "#"
+    },
+    {
+      "img": "/public/images/footer/z3.svg",
+      "text": "۷ روز ﻫﻔﺘﻪ، ۲۴ ﺳﺎﻋﺘﻪ",
+      "link": "#"
+    },
+    {
+      "img": "/public/images/footer/z4.svg",
+      "text": "هفت روز ضمانت بازگشت کالا",
+      "link": "#"
+    },
+    {
+      "img": "/public/images/footer/z5.svg",
+      "text": "ﺿﻤﺎﻧﺖ اﺻﻞ ﺑﻮدن ﮐﺎﻟﺎ",
+      "link": "#"
+    }
+  ],
+  "footer4": [
+    {
+      "title1": "با ثبت ایمیل، از جدید‌ترین تخفیف‌ها با‌خبر شوید",
+      "title2": "ایمیل شما",
+      "title3": "ثبت"
+    },
+    {
+      "title": "با دیجی‌کالا",
+      "links": [
+        "اتاق خبر دیجی‌کالا",
+        "فروش در دیجی‌کالا",
+        "فرصت‌های شغلی",
+        "گزارش تخلف در دیجی‌کالا",
+        "تماس با دیجی‌کالا",
+        "درباره دیجی‌کالا"
+      ]
+    },
+    {
+      "title": "خدمات مشتریان",
+      "links": [
+        "پاسخ به پرسش‌های متداول",
+        "رویه‌های بازگرداندن کالا",
+        "شرایط استفاده",
+        "حریم خصوصی",
+        "گزارش باگ"
+      ]
+    },
+    {
+      "title": "راهنمای خرید از دیجی‌کالا",
+      "links": ["نحوه ثبت سفارش", "رویه ارسال سفارش", "شیوه‌های پرداخت"]
+    },
+    {
+      "title": "همراه ما باشید!",
+      "links": [],
+      "socials": ["instagram", "twitter", "linkedin", "aparat"]
+    }
+  ],
+  "footer5": [
+    {
+      "appDownload": {
+        "logo": "/public/images/footer/b1.webp",
+        "text": "دانلود اپلیکیشن دیجی‌کالا"
+      },
+      "appStores": [
+        {
+          "href": "#",
+          "img": "/public/images/footer/b2.svg",
+          "alt": "کافه بازار"
+        },
+        {
+          "href": "#",
+          "img": "/public/images/footer/b3.svg",
+          "alt": "مایکت"
+        },
+        {
+          "href": "#",
+          "img": "/public/images/footer/b4.svg",
+          "alt": "سیب اپ"
+        }
+      ],
+      "more": {
+        "href": "#"
+      }
+    }
+  ],
+  "footer6": [
+    {
+      "title": "دیجی کالا؛ بزرگترین فروشگاه اینترنتی ایران",
+      "paragraphs": [
+        "دیجی کالا سال‌ها است که به انتخاب اول بسیاری از خریداران اینترنتی تبدیل شده است. دیجی کالا به عنوان بزرگ‌ترین و معتبرترین فروشگاه آنلاین ایران، شناخته‌شده‌ترین فروشگاه نیز محسوب می‌شود. این فروشگاه آنلاین نه‌تنها گسترده‌ترین تنوع کالا را در دسته‌بندی‌های مختلف ارائه می‌دهد، بلکه با خدمات بی‌نظیر، ارسال سریع، ضمانت اصل بودن کالا و پشتیبانی حرفه‌ای، استاندارد جدیدی در خرید اینترنتی ایران تعریف کرده است. این فروشگاه با سال‌ها تجربه و اعتماد مشتریان، کامل‌ترین و بهترین گزینه برای خرید آنلاین در ایران محسوب می‌شود.",
+
+        "ویژگی های مهم دیجی کالا",
+
+        "یکی از ویژگی‌های مهم در خرید از دیجی کالا، تنوع بی‌نظیر محصولات است. این فروشگاه اینترنتی طیف وسیعی از کالاها را در دسته‌های مختلف از جمله لوازم دیجیتال، لوازم خانگی، مد و پوشاک، لوازم آرایشی و بهداشتی، محصولات سلامت و زیبایی، و بسیاری از محصولات دیگر ارائه می‌دهد. به عنوان مثال، اگر به دنبال خرید یک گوشی موبایل جدید باشید، دیجی کالا مجموعه‌ای از بهترین گوشی‌ها از برندهای معتبر اپل و سامسونگ مانند ایفون 16، گوشی S25، گوشی‌های مختلف از برند شیائومی مانند شیائومی نوت ۱۴ و بسیاری از برندهای دیگر را در اختیار شما قرار می‌دهد. همچنین برای علاقه‌مندان به لوازم دیجیتال، این فروشگاه اینترنتی انواع لپ تاپ، تلویزیون، اسپیکر، و هندزفری بلوتوثی با کیفیت بالا را برای خرید آنلاین ارائه می‌دهد. دیجی کالا، مقصدی بی‌پایان برای خرید آسان، سریع و مطمئن است. راهی که هر آنچه نیاز دارید از قیمت لپ تاپ تا یک ایرپاد مطمئن را در اختیار شما قرار می‌دهد.",
+
+        "ارسال سریع و مطمئن کالا",
+
+        "یکی از مهم‌ترین دغدغه‌های کاربران خرید آنلاین، زمان تحویل کالا است. دیجی کالا برای حل این مشکل، گزینه‌های مختلف ارسال را در نظر گرفته است تا کاربران بتوانند بر اساس نیاز خود، روش ارسال مناسب را انتخاب کنند. به عنوان مثال، ارسال کالا به صورت تحویل امروز با ارسال سریع دیجی‌کالا، از جمله روش‌های خرید سریع از این فروشگاه اینترنتی است. این امکانات باعث می‌شود که خریداران بتوانند سفارش خود را در کوتاه‌ترین زمان ممکن دریافت کنند. علاوه بر این، در صورتی که کالای خریداری شده از لحاظ کیفیت یا هر دلیل دیگری رضایت مشتری را جلب نکرده باشد، دیجی کالا ضمانت بازگشت کالا را ارائه می‌دهد. این ویژگی موجب اعتماد بیشتر مشتریان به خرید آنلاین از فروشگاه اینترنتی دیجی کالا شده است.",
+
+        "تخفیف های ویژه و جشنواره ها",
+
+        "دیجی کالا به طور منظم جشنواره‌ها و تخفیف‌های ویژه‌ای را برگزار می‌کند که برای مشتریان فرصت خرید کالاهای باکیفیت با قیمت‌های مناسب به همراه خواهد داشت. این تخفیف‌ها در ایام خاص مانند بلک فرایدی یا همان حراج جمعه سیاه و جشنواره‌های تابستانی توجه بسیاری از خریداران را جلب می‌کند. در این جشنواره‌ها، دیجی کالا تخفیف‌های عالی روی محصولات مختلف از جمله گوشی‌های موبایل، لپ تاپ‌ها، تلویزیون‌ها، و حتی محصولات زیبایی ارائه می‌دهد. می‌توانید گوشی ایفون 16 یا گوشی S25 را با تخفیف‌های ویژه خریداری کنید و از قیمت مناسب بهره‌مند شوید. دیجی کالا فراتر از یک فروشگاه اینترنتی، یک تجربه خرید مطمئن در بین کاربران مختلف بوده است که با ارائه بزرگ‌ترین تنوع کالا، قیمت‌های مختلف و خدماتی بی‌نقص، به مقصد اول خریداران آنلاین در ایران تبدیل شده است.",
+
+        "انواع محصولات فروشگاه دیجی کالا",
+
+        "دیجی کالا دارای محصولات متنوعی در گروه‌های مختلف است که خرید آنها بسیار راحت و سریع است. به عنوان مثال، اگر به دنبال قاب گوشی یا هندزفری بلوتوثی باشید، می‌توانید مدل‌های مختلف و برندهای گوناگونی را در این فروشگاه پیدا کنید.",
+
+        "موبایل و کالای دیجیتال",
+
+        "دیجی‌کالا انواع گوشی‌های هوشمند از برندهای معتبر جهانی مانند سامسونگ، اپل، شیائومی و هواوی را با مشخصات و قیمت‌های متنوع عرضه می‌کند. علاوه بر موبایل، دیجی‌کالا مجموعه‌ای از لوازم جانبی مانند هدفون، هندزفری، ساعت‌های هوشمند، تبلت‌ها و لپ تاپ را نیز در اختیار مشتریان قرار می‌دهد. با امکان مقایسه محصولات، مطالعه نظرات کاربران و دسترسی به جدیدترین مدل‌ها، دیجی‌کالا به یکی از مقاصد اصلی خرید آنلاین در حوزه موبایل و کالای دیجیتال تبدیل شده است. از دهه گذشته همواره دیجی کالا به عنوان اولین گزینه برای خرید گوشی های سامسونگ، آیفون های اپل و گوشی شیائومی محسوب می‌شده است و تا امروز هم در عرضه این موبایل های محبوب به بازار، دیجی‌کالا اولین فروشگاه آنلاین بوده است.",
+
+        "کتاب و لوازم تحریر",
+
+        "کتاب، لوازم تحریر و هنر در دیجی کالا یک مجموعه بی‌نظیر از محصولات فرهنگی و هنری است که به علاقه‌مندان به کتابخوانی، هنر و نوشتن کمک می‌کند تا دنیای خود را گسترش دهند. از کتاب‌های چاپی و کتاب‌های صوتی گرفته تا مجلات خارجی و داخلی و آثار معروف‌ترین نویسندگان مثل سعدی، حافظ، مولانا و فروغ فرخزاد، تمامی نیازهای کتابخوان‌ها را پوشش می‌دهد. همچنین با مجموعه‌ای از لوازم تحریر، ابزار نقاشی و رنگ‌آمیزی، آلبوم‌های عکس و فرش‌های دستبافت، به شما این امکان را می‌دهد تا دنیای هنر و خلاقیت خود را به بهترین نحو پرورش دهید. همچنین خر سال تقریبا همزمان با تهران و نمایشگاه بین المللی کتاب، دیجی کالا نمایشگاه مجازی کتاب خود را برگزار می‌کند تا آنها که فرصت حضور در نمایشگاه را ندارند، بتوانند مجازی از کتاب ها بازدید و خرید کنند.",
+
+        "لوازم آرایشی و بهداشتی",
+
+        "در دسته محصولات آرایشی و بهداشتی، دیجی کالا مجموعه‌ای از بهترین و پرطرفدارترین برندهای جهانی را در اختیار کاربران قرار می‌دهد. محصولات متنوعی همچون مرطوب كننده‌ها، كرم پودر، ضدآفتاب، ريمل و رژلب از برندهایی مانند لورال، کلینیک و میبلین در دیجی کالا موجود هستند که برای هر سلیقه و نیاز قابل انتخاب هستند. علاوه بر این، شما می‌توانید محصولات مراقبت از پوست و مو مانند شامپو، کرم‌های ضد چروک و ماسک صورت را در این فروشگاه بیابید و خرید آنلاین خود را به راحتی انجام دهید. دیجی کالا، بزرگ‌ترین و معتبرترین فروشگاه آنلاین لوازم آرایشی ایران، جایی که تنوع، کیفیت و اطمینان در خرید یکجا جمع شده‌اند."
+      ],
+      "logos": [
+        {
+          "href": "#",
+          "img": "/public/images/footer/s1.webp",
+          "alt": "لوگو 1"
+        },
+        {
+          "href": "#",
+          "img": "/public/images/footer/s2.webp",
+          "alt": "لوگو 2"
+        },
+        {
+          "href": "#",
+          "img": "/public/images/footer/s3.webp",
+          "alt": "لوگو 3"
+        },
+        {
+          "href": "#",
+          "img": "/public/images/footer/s4.webp",
+          "alt": "لوگو 4"
+        }
+      ]
+    }
+  ],
+  "footer7": [
+    {
+      "text": "برای استفاده از مطالب دیجی‌کالا، داشتن «هدف غیرتجاری» و ذکر «منبع» کافیست. تمام حقوق این وب‌سایت نیز برای شرکت نوآوران فن آوازه (فروشگاه آنلاین دیجی‌کالا) است."
+    }
+  ],
+  "footer8": [
+    {
+      "topRow": [
+        { "img": "/public/images/footer/1-1.svg", "href": "#" },
+        { "img": "/public/images/footer/1-2.svg", "href": "#" },
+        { "img": "/public/images/footer/1-3.svg", "href": "#" },
+        { "img": "/public/images/footer/1-4.svg", "href": "#" },
+        { "img": "/public/images/footer/1-5.svg", "href": "#" },
+        { "img": "/public/images/footer/1-6.svg", "href": "#" },
+        { "img": "/public/images/footer/1-7.svg", "href": "#" },
+        { "img": "/public/images/footer/1-8.svg", "href": "#" }
+      ],
+      "bottomRow": [
+        { "img": "/public/images/footer/2-1.svg", "href": "#" },
+        { "img": "/public/images/footer/2-2.svg", "href": "#" },
+        { "img": "/public/images/footer/2-3.svg", "href": "#" },
+        { "img": "/public/images/footer/2-4.svg", "href": "#" },
+        { "img": "/public/images/footer/2-5.svg", "href": "#" },
+        { "img": "/public/images/footer/2-6.svg", "href": "#" },
+        { "img": "/public/images/footer/2-7.svg", "href": "#" }
+      ]
+    }
+  ],
+  "meta": [
+    {
+      "title": "فروشگاه اینترنتی دیجی‌کالا",
+      "icon": "/public/images/icon.png"
+    }
+  ]
+}
